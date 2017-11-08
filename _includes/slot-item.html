@@ -1,0 +1,26 @@
+{% case post.room %}
+{% when 'a' %}
+{% assign room = 'Main Hall' %}
+{% when 'b' %}
+{% assign room = 'Room 1' %}
+{% else %}
+{% assign room = 'Workshop' %}
+{% endcase %}
+<div
+  id='{{post.url}}'
+  data-category='{{post.category | replace: ' ','-' }}'
+  class='col6 prose pad1 program-block animate contain keyline-left keyline-right'>
+  <label>
+    <span class="room">{{room}}</span>
+    <span class='light'> {% if post.length %}{{post.length}}{% else %}30min{% endif %}</span>
+  </label>
+  <a
+    href='{% if post.category == "lightning" %}/lightning-talks/{% else %}{{site.baseurl}}{{post.url}}{% endif %}'
+    class='sans block space-top2 sessiontitle'>
+    {{post.title}}
+  </a>
+  <small class='col12 pin-bottomleft pad1'>
+    <!--<span class='inline pad0 dot fill-{{post.category | downcase | replace: ' ','-' }}' title='{{post.theme}}'></span>-->
+    &bull; {{post.name}}{% if post.organization %}, {{post.organization}}{% endif %}
+  </small>
+</div>

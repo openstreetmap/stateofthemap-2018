@@ -1,0 +1,37 @@
+{% case post.room %}
+{% when 'a' %}
+{% assign room = 'Main Hall' %}
+{% when 'b' %}
+{% assign room = 'Room 1' %}
+{% else %}
+{% assign room = post.room %}
+{% endcase %}
+{% assign keyline = forloop.index | modulo:3 |  %}
+
+{% case post.category %}
+{% when "lightning" %}
+{% assign link = "/lightning-talks/#sunday" %}
+{% when "lightningja" %}
+{% assign link = "/ja/lightning-talks/#sunday" %}
+{% else %}
+{% capture link %}{{site.baseurl}}{{post.url}}{% endcapture %}
+{% endcase %}
+<div data-category='{{post.category | replace: ' ','-' }}' class="col4 prose pad1 program-block program-block-tall animate contain keyline-right {% if keyline == 1 %} keyline-left{% endif %} keyline-bottom">
+  <label>
+    <span class="room">{{room}}</span>
+    <span class='light'> {% if post.length %}{{post.length}}{% elsif post.track %}30min{% else %}75min{% endif %}</span>
+    {% if post.capacity %}
+    <span class="light">{{post.capacity}} people</span>
+    {% endif %}
+  </label>
+  <a
+    href='{{link}}'
+    class='sans block space-top2 sessiontitle'>
+   {{post.title}}
+ </a>
+  <!-- <label><span class="round space-top2 fill-lighten1 micro strong pad0y">Track {{post.track}}</span></label> -->
+  <small class='col12 pin-bottomleft pad1'>
+    <!--<span class='inline pad0 dot {% if post.name %} fill-{{post.category | downcase | replace: ' ','-' }}{% endif %}' title='{{post.theme}}'></span>-->
+    &bull; {{post.name}}{% if post.organization %}, {{post.organization}}{% endif %}
+  </small>
+</div>
