@@ -586,7 +586,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .fill-navy .pill > *        { border-color:#28353d; }
 .fill-navy-dark .pill > *   { border-color:#222B30; }
 .fill-purple .pill > *      { border-color:#FFE0A7; }
-.fill-midnight .pill > *    { border-color:#78acdf; }
+.fill-midnight .pill > *    { border-color:#006c33; }
 .fill-darkblue .pill > *    { background-color:#223b53; }
 .fill-red .pill > *         { background-color:#e55e5e; }
 .fill-teal .pill > *        { background-color:#41afa5; }
@@ -709,7 +709,7 @@ a.quiet.dark.active, a.quiet.dark:hover { color:rgba(255,255,255,0.5); }
 .fill-blue .rounded-toggle input[type=radio]:checked + label,
 .fill-blue .rounded-toggle .active        { background:#3887be; }
 .fill-midnight .rounded-toggle input[type=radio]:checked + label,
-.fill-midnight .rounded-toggle .active        { background:#78acdf; }
+.fill-midnight .rounded-toggle .active        { background:#006c33; }
 .fill-denim .rounded-toggle input[type=radio]:checked + label,
 .fill-denim .rounded-toggle .active       { background:#50667f; }
 .fill-navy .rounded-toggle input[type=radio]:checked + label,
@@ -2991,17 +2991,17 @@ Alternate exists for:
 .fill-grey-dark,
 .fill-gray-dark   { background:#404040; }
 .fill-white       { background:#fff; }
-.fill-light       { background:rgb(4, 5, 40) }
+.fill-light       { background:rgb(0, 47, 22) }
 /* deprecated, use fill-cyan */
 .fill-blue-light  { background:#52a1d8; }
 .fill-cyan        { background:#3bb2d0; }
-.fill-midnight    { background:#78acdf; }
+.fill-midnight    { background:#006c33; }
 
 .fill-blue         { background:#3887be; }
 .fill-denim        { background:#50667f; }
 .fill-navy         { background:#28353d; }
 .fill-navy-dark    { background:#222B30; }
-.fill-purple       { background:rgb(4, 5, 40); }
+.fill-purple       { background:rgb(0, 47, 22); }
 .fill-purple-light { background: rgba(145, 168, 255, 0.15);}
 .fill-green        { background:#56b881; }
 .fill-yellow       { background:#f1f075; }
@@ -3308,7 +3308,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
 .unfloat                      { float:none; }
 .dot                          { border-radius:50%; }
 .quiet                        { color:#ffffff; }
-.dark .quiet                  { color: #B3BAE2; color: #B3BAE2;}
+.dark .quiet                  { color: #e9e9e7; color: #e9e9e7;}
 .center                       { text-align:center; }
 .contain                      { position:relative; }
 .clip                         { overflow:hidden; }

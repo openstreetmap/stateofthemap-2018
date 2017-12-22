@@ -21,7 +21,7 @@ h6 {
 }
 
 h1.purple-text {
-    color: #3c3c3c;
+    color: #dbdbdb;
 }
 
 .dark h2 span, .main_color {
@@ -54,7 +54,7 @@ a:focus {
     margin-bottom: 0;
     border-bottom: 1px solid rgba(255,255,255,.3);
     font-family: 'Varela Round',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    background-color: #78acdf;
+    background-color: #006c33;
     font-weight: bold;
 }
 
@@ -86,7 +86,7 @@ a:focus {
     /*background-color: rgba(255,255,255,.05);*/
 }
 .navbar-custom .nav li.active  a {
-  /*color: #3c3c3c;*/
+  /*color: #dbdbdb;*/
 }
 
 .navbar-custom .nav li a {
@@ -96,7 +96,7 @@ a:focus {
 }
 
 .navbar-custom .nav li a.active {
-    color: #3c3c3c;
+    color: #dbdbdb;
 }
 
 .navbar-custom .nav li a:hover,
@@ -118,12 +118,12 @@ a:focus {
 
     .top-nav-collapse, .stay-collapsed {
         padding: 0;
-        background-color: #78acdf;
+        background-color: #006c33;
     }
 
     .navbar-custom.top-nav-collapse {
-      border-bottom: 1px solid rgba(110, 128, 228, 0.39);
-      background: #78acdf;
+      border-bottom: 1px solid rgba(0, 57, 28, 0.39);
+      background: #006c33;
     }
 }
 
@@ -355,10 +355,10 @@ body {
 /* About
 ------------------------------------------------------- */
 #about.keyline-top {
-    border-top: 1px solid rgba(145, 168, 255, 0.59);
+    border-top: 1px solid rgba(0, 57, 28, 0.59);
 }
 #about.keyline-bottom {
-    border-bottom: 1px solid rgba(145, 168, 255, 0.59);
+    border-bottom: 1px solid rgba(0, 57, 28, 0.59);
 }
 
 .dotted {
@@ -381,7 +381,7 @@ body {
 }
 
 h3.small-title {
-    color: #3c3c3c;
+    color: #dbdbdb;
     position: relative;
     margin-bottom: 25px;
     font-size: 20px;
@@ -393,7 +393,7 @@ h3.small-title:before {
     width: 30px;
     height: 3px;
     border-radius: 5px;
-    background-color: #3c3c3c;
+    background-color: #dbdbdb;
     position: absolute;
     bottom: -13px;
     left: 0px;
@@ -438,7 +438,7 @@ input[type=email].dot-field  {
   background: white;
   border-color: #eee;
   border-color: rgba(0,0,0,0.25);
-  color: #3c3c3c;
+  color: #dbdbdb;
   box-shadow: none;
   border-radius: 30px 0px 0px 30px;
   padding-left: 40px;
@@ -446,7 +446,7 @@ input[type=email].dot-field  {
 
 .dark textarea:focus, .dark input[type=password]:focus, .dark input[type=text]:focus, .dark input[type=date]:focus, .dark input[type=email]:focus, .dark input[type=number]:focus {
     border-color: rgba(255,255,255,0.75);
-    color: #3c3c3c;
+    color: #dbdbdb;
 }
 
 .input-pill .dot-button {
@@ -577,7 +577,7 @@ h3.smaller-title.silver_sponsors:before {
 }
 
 .navbar-filter {
-    background-color: #78acdf;
+    background-color: #006c33;
 }
 
 /* Castle Colors
@@ -589,7 +589,7 @@ h3.smaller-title.silver_sponsors:before {
 
 #mc_embed_signup_scroll .dark,
 .limiter.pad8y.clearfix.center h2 {
-    color: #7f7f7f;
+    color: #efe0e0;
 }
 
 .intro-body .limiter {
