@@ -1,0 +1,36 @@
+---
+layout: it/programit
+color: fill-midnight
+---
+
+<div class='pad4y col12 clearfix'>
+   <div class='col10 margin2r space-bottom4 contain'>
+      <div class="space-bottom4">
+         <h1 class="small-title text-blue-light">Lightning talks</h1>
+         <p>Lightning talks is do on <a href="#friday">Friday</a> and <a href="#sunday">Sunday</a>. All the wonderful talks. Let's go listening to everything. If time permits there may be space for one or two more 5 minute Lightning talks. Be ready to go!</p>
+      </div>
+
+      <h2 class='space-bottom0' id="friday"><br>Friday's Lightning talks</h2>
+
+{% include it/friday-lt.html %}
+
+      <h2 class='space-bottom0' id="sunday"><br>Sunday's Lightning talks</h2>
+
+{% include it/sunday-lt.html %}
+
+      <h2 class='space-bottom0' id="added"><br>Expanded LT</h2>
+
+      <div class="fill-lighten0 pad2x pad2y round clearfix  space-bottom1 clearfix">
+         <div class="col11 margin1r">
+               <h2 class="space-bottom0">Rivers</h2>
+               <span class="small space-bottom2">by Ilya Zverev</span>
+               <div class="prose space-bottom2 space-top1">
+                  <a href="https://speakerdeck.com/sotm2017/day3-0930-lt-rivers" class="pad2x pad0y" target="_blank">Open presentation slides in a new tab</a>
+               </div>
+         </div>
+      </div>
+
+      <a href='{{site.baseurl}}/program' class='button pad2x stroke icon prev space-top4 round-big'>Back to program</a>
+
+   </div>
+</div>

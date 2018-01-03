@@ -1,0 +1,16 @@
+{% for post in site.posts reversed %}
+   {% if post.category == 'lightning' %}
+      {% if post.time == 'friday'%}
+
+<div class="fill-lighten0 pad2x pad2y round clearfix  space-bottom1 clearfix">
+   <div class="col11 margin1r">
+      <h2 class="space-bottom0">{{ post.Title }}</h2>
+      <span class="small space-bottom2">by {{ post.name }}</span>
+      <div class="prose space-bottom2 space-top1">{{ post.content | truncatewords: 30 }}</div>
+      <a href="{{post.url}}" class="pad2x pad0y button fill-pink round-big" >Learn more</a>
+   </div>
+</div>
+
+      {% endif %}
+   {% endif %}
+{% endfor %}

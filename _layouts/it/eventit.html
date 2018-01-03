@@ -1,0 +1,167 @@
+---
+layout: it/programit
+color: fill-midnight
+color: dark-nav
+---
+{% case page.room %}
+{% when 'a' %}
+{% assign room = 'Auditorium A' %}
+{% when 'b' %}
+{% assign room = 'Auditorium C' %}
+{% else %}
+{% assign room = page.room %}
+{% endcase %}
+
+{% if page.tags contains 'turn1' %}
+{% assign time = 'Friday 10:30am' %}
+{% elsif page.tags contains 'turn2' %}
+{% assign time = 'Friday 11:00am' %}
+{% elsif page.tags contains 'turn3' %}
+{% assign time = 'Friday 12:00am' %}
+{% elsif page.tags contains 'turn4' %}
+{% assign time = 'Friday 12:30pm' %}
+{% elsif page.tags contains 'turn5' %}
+{% assign time = 'Friday 2:10pm' %}
+{% elsif page.tags contains 'turn6' %}
+{% assign time = 'Friday 2:40pm' %}
+{% elsif page.tags contains 'turn7' %}
+{% assign time = 'Friday 3:10pm' %}
+{% elsif page.tags contains 'turn8' %}
+{% assign time = 'Friday 4:10pm' %}
+{% elsif page.tags contains 'turn9' %}
+{% assign time = 'Friday 4:40pm' %}
+{% elsif page.tags contains 'turn10' %}
+{% assign time = 'Friday 5:10pm' %}
+{% elsif page.tags contains 'turn11' %}
+{% assign time = 'Saturday 9:30pm' %}
+{% elsif page.tags contains 'turn12' %}
+{% assign time = 'Saturday 10:00am' %}
+{% elsif page.tags contains 'turn13' %}
+{% assign time = 'Saturday 10:30am' %}
+{% elsif page.tags contains 'turn14' %}
+{% assign time = 'Saturday 11:30am' %}
+{% elsif page.tags contains 'turn15' %}
+{% assign time = 'Saturday 12:00am' %}
+{% elsif page.tags contains 'turn16' %}
+{% assign time = 'Saturday 12:30pm' %}
+{% elsif page.tags contains 'turn17' %}
+{% assign time = 'Saturday 2:00pm' %}
+{% elsif page.tags contains 'turn18' %}
+{% assign time = 'Saturday 2:30pm' %}
+{% elsif page.tags contains 'turn19' %}
+{% assign time = 'Saturday 3:00pm' %}
+{% elsif page.tags contains 'turn20' %}
+{% assign time = 'Saturday 4:00pm' %}
+{% elsif page.tags contains 'turn21' %}
+{% assign time = 'Saturday 4:30pm' %}
+{% elsif page.tags contains 'turn22' %}
+{% assign time = 'Sunday 9:30am' %}
+{% elsif page.tags contains 'turn23' %}
+{% assign time = 'Sunday 11:15am' %}
+{% elsif page.tags contains 'turn24' %}
+{% assign time = 'Sunday 1:30pm' %}
+{% elsif page.tags contains 'turn25' %}
+{% assign time = 'Sunday 3:15pm' %}
+{% elsif page.time contains 'friday' %}
+{% assign time = 'Friday Lightning talk' %}
+{% elsif page.time contains 'sunday' %}
+{% assign time = 'Sunday Lightning talk' %}
+{% endif %}
+
+{% if page.tags contains 'turn22' %}
+{% assign length = '75min' %}
+{% elsif page.tags contains 'turn23' %}
+{% assign length = '75min' %}
+{% elsif page.tags contains 'turn24' %}
+{% assign length = '75min' %}
+{% elsif page.tags contains 'turn25' %}
+{% assign length = '75min' %}
+{% else %}
+{% assign length = '30min' %}
+{% endif %}
+
+<div class='' id="event-page">
+  <div class=''>
+    <div class='pad4y col12 clearfix space-bottom8'>
+      <div class='col4'><h2 class='spartan color-{{page.color}}2'>{{page.title}}</h2>
+        <span class='inline pad0'>{{time}}, {{room}}</span>
+        {% unless page.category == 'lightningja' %}
+        <p class="space-top2">
+           <!--<span class='inline pad0 dot fill-{{page.category | replace: ' ',  '-'}}'></span>-->
+           Theme:<br>
+          &bull; <span class='sans capitalize'>{{page.theme}}</span>
+        </p>
+        <p class="space-top2">
+          Audience:<br>
+          &bull; <span class='sans capitalize'>{{page.audience}}</span>
+        </p>
+        {% endunless %}
+      </div>
+      <div class='col7 margin1 min-height'>
+        <header class='space-bottom2'>
+
+          <div class='col12'>
+            <h3 class='inline event-title'>{{page.name}}
+               <small class='inline pad1x'>{{ length }}</small>
+            </h3>
+
+            {% if page.twitter %}
+            <a
+              target='_blank'
+              class='social small sans icon twitter space-right1'
+              title='Profile on Twitter'
+              href='https://twitter.com/{{page.twitter}}'>
+              {{page.twitter}}</a>
+            {% endif %}
+            {% if page.osm %}
+            <a
+              target='_blank'
+              class=' social small sans icon osm'
+              title='Profile on OpenStreetMap'
+              href='http://www.openstreetmap.org/user/{{page.osm}}'>
+              {{page.osm}}</a>
+            {% endif %}
+          </div>
+
+          <small class="space-bottom1 space-top0 inline">
+            {% if page.role %}<span class='sans'>{{page.role}}</span>{% endif %}
+            {% if page.organization %}<span class='sans'>{{page.organization}}</span>{% endif %}
+
+
+          </small>
+
+        </header>
+        {% if page.youtube_recording %}
+        <div class='prose space-bottom2'>
+          {% if page.youtube_time %}{% assign youtube_second = page.youtube_time[0] | times:60 | plus:page.youtube_time[1] %}{% endif %}
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.youtube_recording }}{% if page.youtube_time %}?start={{ youtube_second }}{% endif %}" frameborder="0" allowfullscreen></iframe>
+        </div>
+        {% endif %}
+        {% if page.slides %}
+        <div class='prose space-bottom2'>
+          <a
+            target="_blank"
+            title="Open presentation slides"
+            href="{{ page.slides }}">
+            スライドを新しいタブで開く</a>
+        </div>
+        {% endif %}
+        <div class='prose space-bottom2'>
+          {{content}}
+        </div>
+
+
+      {% if page.category == 'lightningja' %}
+        <a
+          href='{{site.baseurl}}/ja/lightning-talks'
+          class='button pad2x stroke icon prev space-top4 round-big'>Back to lightning talks</a>
+
+      {% else %}
+        <a
+          href='{{site.baseurl}}/ja/program'
+          class='button pad2x stroke icon prev space-top4 round-big'>Back to program</a>
+      {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
