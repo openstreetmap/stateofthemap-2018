@@ -266,6 +266,14 @@ a:focus {
     margin-top: 100px;
 }
 
+.marker {
+  background-image: url('img/map-marker.png');
+  background-size: cover;
+  width: 40px;
+  height: 66px;
+  cursor: pointer;
+}
+
 @media(min-width:767px) {
     .content-section {
         padding-top: 200px;

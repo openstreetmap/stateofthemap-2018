@@ -19,8 +19,11 @@ map.on('style.load', function() {
     $('.mapboxgl-ctrl-attrib.mapboxgl-ctrl').remove();
     $('.mapboxgl-ctrl-bottom-right').append('<div class="mapboxgl-ctrl-attrib mapboxgl-ctrl"><a href="http://www.openstreetmap.org/about/" target="_blank">© OpenStreetMap contributors</a></div>');
 });
-
-
+var el = document.createElement('div');
+el.className = 'marker';
+new mapboxgl.Marker(el)
+  .setLngLat([9.22753, 45.47759])
+  .addTo(map);
 
 // Add zoom and rotation controls to the map.
 map.addControl(new mapboxgl.NavigationControl());
