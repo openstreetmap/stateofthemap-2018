@@ -457,7 +457,7 @@ input[type=email].dot-field  {
 }
 
 #newsletter .button:hover, .button.active {
-    background-color: #599ddf;
+    background-color: #009246;
 }
 
 input#mce-EMAIL::selection {
