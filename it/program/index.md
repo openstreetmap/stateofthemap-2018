@@ -1,17 +1,19 @@
 ---
-layout: page
-title: Program
+layout: it/pageit
+title: Programma
 titlecontent:
 ---
 
-State of the Map 2018 is taking place from **July 28th to 30th 2018** in Milan, Italy. We are looking forward to designing a program with you - the OpenStreetMap community. Expect a call for session proposals to go out soon - <a href="{{site.baseurl}}">sign up for event updates</a> to get a notification.
+State of the Map 2018 si terrà dal **28 al 30 luglio 2018** a Milano, in Italia. Stiamo cercando di creare un programma insieme a voi - la comunità di OpenStreetMap. A breve verrà data la possibilità di proporre i propri interventi  - <a href="{{site.baseurl}}">registrati all'evento</a> per ricevere gli ultimi aggiornamenti.
 
-In the meantime, here is the outline of the program:
+Nel frattempo, ecco a grandi linee come sarà il programma:
 
-- July 28th: first main conference day with presentations and discussions
-- July 29th: second main conference day with presentations and discussions
-- July 30th: activity day with code, documentation sprints, mapping and workshops
+- 28 luglio: primo giorno della conferenza con presentazioni e discussioni
+- 29 luglio: secondo giorno della conferenza con presentazioni e discussioni
+- 30 luglio: giornata dedicata alle attività di programmazione, documentazione, mappatura e laboratori
 
-We plan to have two tracks of talks throughout the first two days, with the option to expand to three tracks for a half day of academic talks. Breakout rooms will be available throughout.
+Abbiamo pianificato di avere due tracce dedicate alle presentazioni per i primi due giorni, con la possibilità di espanderle a tre per mezza giornata per le presentazioni accademiche. 
 
-*Your State of the Map organizing team.*
+We plan to have two tracks of talks throughout the first two days, with the option to expand to three tracks for a half day of academic talks. Le sale secondarie saranno a disposizione per l'intera giornata
+
+*L'organizzazione di State of the Map.*
