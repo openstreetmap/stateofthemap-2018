@@ -1,7 +1,7 @@
 ---
 layout: it/pageit
 color: purple
-title: Code of conduct
+title: Codice di condotta
 ---
 
 The [OpenStreetMap Foundation](http://wiki.osmfoundation.org/wiki/Main_Page) is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks.
