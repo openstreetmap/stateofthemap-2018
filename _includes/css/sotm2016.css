@@ -580,7 +580,7 @@ h3.smaller-title.silver_sponsors:before {
     background-color: #006c33;
 }
 
-/* Castle Colors
+/* MailChimp and ??
 ------------------------------------------------------- */
 
 .sub_color {
@@ -592,31 +592,34 @@ h3.smaller-title.silver_sponsors:before {
     color: #efe0e0;
 }
 
+/* Logo positioning
+------------------------------------------------------- */
+
 .intro-body .limiter {
-    max-width: 100%;
+    max-width: 80%;
     width: 100%;
     height: 80%;
     margin: 0px;
 }
 
-.intro-body .limiter .right {
+.intro-body .limiter .left {
     height: 100%;
 }
 
-.intro-body .limiter .right .col12 {
+.intro-body .limiter .left .col12 {
    text-align: center;
    padding: 0px;
    width: 20%;
    min-width: 100px;
    height: 100%;
-   margin-left: auto;
-   margin-right: 5%;
+   margin-left: 14%;
+   margin-right: auto;
 }
 
 .col12 .col4.margin4.margin4r {
     position: relative;
-    margin-left: auto;
-    margin-right: 0px;
+    margin-left: 0px;
+    margin-right: auto;
     width: 100%;
     clear: both;
 }
@@ -643,6 +646,9 @@ h3.smaller-title.silver_sponsors:before {
     margin-right: auto;
     clear: both;
 }
+
+/* COther
+------------------------------------------------------- */
 
 .announce-title {
     font-size: 20px;
