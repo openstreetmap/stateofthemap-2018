@@ -17,7 +17,13 @@ var map = new mapboxgl.Map({
 map.on('style.load', function() {
     console.log('loaded')
     $('.mapboxgl-ctrl-attrib.mapboxgl-ctrl').remove();
-    $('.mapboxgl-ctrl-bottom-right').append('<div class="mapboxgl-ctrl-attrib mapboxgl-ctrl"><a href="http://www.openstreetmap.org/about/" target="_blank">© OpenStreetMap contributors</a></div>');
+    $('.mapboxgl-ctrl-bottom-right').append('<div class="mapboxgl-ctrl-attrib mapboxgl-ctrl">\
+    <a href="https://www.openstreetmap.org/about" target="_blank">Map data</a>\
+    <a href="https://www.openstreetmap.org/copyright" target="_blank">© OpenStreetMap contributors</a>\
+    <a href="https://www.openstreetmap.org/fixthemap" target="_blank"><i class="fa fa-wrench" aria-hidden="true"></i></a>\
+    <a href="https://donate.openstreetmap.org" target="_blank"><i class="fa fa-heart" aria-hidden="true"></i></a>\
+    <a href="https://join.osmfoundation.org" target="_blank"><i class="fa fa-map" aria-hidden="true"></i></a>\
+    </div>');
 });
 var el = document.createElement('div');
 el.className = 'marker';
