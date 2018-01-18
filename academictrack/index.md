@@ -18,10 +18,7 @@ In parallel to the standard sessions, this year State of the Map will run an Aca
 - creating better connections and collaborations between the scientific community and the OpenStreetMap community 
 - open research problems in OpenStreetMap and challenges for the scientific community 
   
-Authors are invited to submit abstracts using this form:
-
-[https://docs.google.com/forms/d/e/1FAIpQLSej1MWq6IWdqb0R0LnVutDfR3prJ8FjJeaPeQ1dd1ueaw8GPA/viewform](https://docs.google.com/forms/d/e/1FAIpQLSej1MWq6IWdqb0R0LnVutDfR3prJ8FjJeaPeQ1dd1ueaw8GPA/viewform)
-
+Authors are invited to submit abstracts using [this form](https://docs.google.com/forms/d/e/1FAIpQLSej1MWq6IWdqb0R0LnVutDfR3prJ8FjJeaPeQ1dd1ueaw8GPA/viewform).
 
 The maximum length of the abstract is 2500 characters. Abstracts must be scientifically rigorous and structured as follows: introduction/background, where the problem addressed is introduced; main aim or purpose of the study; brief description of the methodology and findings achieved; final discussion highlighting the scientific contribution of the study and its practical benefits/implications. Abstracts describing the use, analysis and processing of OpenStreetMap data for new and unconventional applications/disciplines are particularly encouraged.
 
