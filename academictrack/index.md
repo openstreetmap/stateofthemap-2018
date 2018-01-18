@@ -1,3 +1,9 @@
+---
+layout: page
+color: purple
+title: Academic Track
+---
+
 # Academic Track: Call for abstracts
 
 In parallel to the standard sessions, this year State of the Map will run an Academic Track session to showcase the great importance OpenStreetMap has gained within the scientific and academic communities. The Academic Track aims to bring together and foster interactions between OpenStreetMap contributors and scientific researchers from all over the world. Consequently this will demonstrate both the potential and maturity of scientific investigations based on OpenStreetMap to the whole community and stimulate a beneficial discussion among the attendees. Contributions are expected to address any scientific aspect related to OpenStreetMap, in particular, but not limited, to the following:
