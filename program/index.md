@@ -4,7 +4,7 @@ title: Program
 titlecontent:
 ---
 
-State of the Map 2018 is taking place from **July 28th to 30th 2018** in Milan, Italy. We are looking forward to designing a program with you - the OpenStreetMap community. You only have until 14th February to <a href="https://blog.openstreetmap.org/2018/01/11/session-proposals-sotm-2018/">submit your session proposals</a> so don't delay!
+State of the Map 2018 is taking place from **July 28th to 30th 2018** in Milan, Italy. We are looking forward to designing a program with you - the OpenStreetMap community. You only have until 14th February to <a href="https://blog.openstreetmap.org/2018/01/11/session-proposals-sotm-2018/">submit your session proposals</a> and until 4th March to <a href="https://2018.stateofthemap.org/academictrack/">submit your academic abstract</a> so don't delay!
 
 In the meantime, here is the outline of the program:
 
