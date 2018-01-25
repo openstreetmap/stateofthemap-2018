@@ -166,7 +166,7 @@ a > code {
 
 .dark a,
 a.dark,
-.dark a > code  { color:rgba(255,255,255,.5); }
+.dark a > code  { color:rgba(255,255,255,.7); }
 a.dark.active,
 .dark a.active,
 a.dark:hover,
