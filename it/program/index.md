@@ -4,7 +4,7 @@ title: Programma
 titlecontent:
 ---
 
-State of the Map 2018 si terrà dal **28 al 30 luglio 2018** a Milano, in Italia. Stiamo cercando di creare un programma insieme a voi, la comunità di OpenStreetMap. Hai tempo fino al 14 febbraio per proporre la tua idea per una <a href="https://blog.openstreetmap.org/2018/01/11/session-proposals-sotm-2018/">presentazione orale</a> e fino al 4 marzo per proporre un abstract per la <a href="https://2018.stateofthemap.org/it/academictrack/">sessione accademica</a>, quindi non tardare!
+State of the Map 2018 si terrà dal **28 al 30 luglio 2018** a Milano, in Italia. Stiamo cercando di creare un programma insieme a voi, la comunità di OpenStreetMap. Hai tempo fino al 18 febbraio per proporre la tua idea per una <a href="https://blog.openstreetmap.org/2018/01/11/session-proposals-sotm-2018/">presentazione orale</a> e fino al 4 marzo per proporre un abstract per la <a href="https://2018.stateofthemap.org/it/academictrack/">sessione accademica</a>, quindi non tardare!
 
 Nel frattempo, ecco a grandi linee come sarà il programma:
 
