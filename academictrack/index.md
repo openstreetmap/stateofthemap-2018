@@ -34,3 +34,13 @@ Abstracts will be evaluated by the Scientific Committee. Authors of selected abs
 - *Dr. Frank Ostermann* - University of Twente, Faculty of Geo-Information Science and Earth Observation (ITC), The Netherlands
 - *Dr. Amin Mobasheri* - GIScience Research Group, Institute of Geography, Heidelberg University, Germany
 - *Joost Schouppe* - OpenStreetMap Belgium, Belgium
+- *Prof. Stefan Keller* - Hochschule für Technik (HSR), Switzerland
+- *Dr. Gloria Bordogna* - National Research Council, Institute for the Electromagnetic Sensing of the Environment, Italy 
+- *Prof. Piero Fraternali* - Politecnico di Milano, Department of Electronics, Information, and Bioengineering, Italy
+- *Dr. Victoria Rautenbach* - University of Pretoria, Department of Geography, Geoinformatics and Meteorology, South Africa
+- *Dr. Monia Elisa Molinari* - Politecnico di Milano, Department of Civil and Environmental Engineering, Italy
+- *Dr. Sofiane Abbar* - Qatar Computing Research Institute, HBKU, Qatar
+- *Daniele Oxoli* - Politecnico di Milano, Department of Civil and Environmental Engineering, Italy
+- *Cristian Consonni* - University of Trento, Department of Information Engineering and Computer Science, Italy
+- *Darian Frajberg* - Politecnico di Milano, Department of Electronics, Information, and Bioengineering, Italy
+- *Rocio Nahime Torres* - Politecnico di Milano, Department of Electronics, Information, and Bioengineering, Italy
