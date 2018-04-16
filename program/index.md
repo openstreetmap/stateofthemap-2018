@@ -16,7 +16,7 @@ There will be plenty of breakout rooms throughout for discussions, code, documen
 
 ## 20 minute talks
 
-| 20 minute talks |
+| List of talks |
 |------------------------|
 | Form & Map based Mobile OSM Tool for Field Survey and Validation<br><i>Kuo-Yu slayer Chuang (GeoThings Inc.)</i> |
 | Can we validate every change on OSM?<br><i>Lukas Martinelli (Mapbox)</i> |
@@ -80,5 +80,59 @@ There will be plenty of breakout rooms throughout for discussions, code, documen
 | OSM at Facebook<br><i>Drishtie Patel (Facebook)</i> |
 | A new approach to garner prolific contribution in OpenStreetMap<br><i>Kshitiz Khanal (Kathmandu Living Labs,)</i> |
 
+
+## 5 minute lightning talks
+
+| List of talks |
+|------------------------|
+| Improving Public Policy with Geo-Statistics <br><i>Michael Benhamou (ARON Praxis)</i> |
+| Role of mapping in achieving the Sustainable Development Goals(SDGs)<br><i>Laura Mugeha (Jomo Kenyatta University of Agriculture and Technology)</i> |
+| Third party data for the SDGs: What can openstreetmap bring to the table?<br><i>Javier Carranza Tresoldi (GeoCensos)</i> |
+| Mapping A Paradise: Batanes, the Home of the Winds<br><i>Arnalie Faye Vicario (Department of Social Welfare and Development / University of the Philippines / Kalikhasun (startup organization))</i> |
+| Namespaces general description<br><i>Thilo (OSM Contributors)</i> |
+| Making Social Welfare Data available: The DSWD Map Viewer <br><i>Sandra Tabinas (Department of Social Welfare and Development)</i> |
+| Interactive map in five minutes<br><i>Ilya Zverev (MAPS.ME)</i> |
+| Every day I'm mapping<br><i>Ilya Zverev (MAPS.ME)</i> |
+| State of Vespucci<br><i>Simon Poole</i> |
+| Providing OSM realtime extracts<br><i>Stefan Eberlein (Universität Heidelberg)</i> |
+| OpenStreetMap for the dyslexic<br><i>Massimiliano Bernabé (osm4dys.org)</i> |
+| The State of the iD Editor<br><i>Bryan Housel (Mapbox)</i> |
+| Where is the community?<br><i>Jinal Foflia (Communications Working Group)</i> |
+| OpenStreetMaps for emergency prep: The view from San Francisco<br><i>Nicole Martinelli</i> |
+| OpenStreetMap and Wikimedia<br><i>Eugene Alvin Villar (OSM Philippines community)</i> |
+| FOSSGIS routing server<br><i>michael spreng</i> |
+| State of  the UK: 14 years of vision<br><i>Gregory Marler (OpenStreetMap UK CIC)</i> |
+| A new lightning fast .osm parser<br><i>ikushan@me.com (Mapbox)</i> |
+| Crowd2Map Tanzania - helping protect girls from FGM and empower rural communities<br><i>Janet CHAPMAN</i> |
+| Brightest star among the crowd.<br><i>Akhi Jetra (Eastern University, Dhaka, Bangladesh)</i> |
+| Mapping Freetown’s distribution water network using OSM<br><i>Alexandre Duclaux (Sige)</i> |
+| Making a JOSM Mapper's Life Simpler and Easier<br><i>Istvan Vincze (Telenav)</i> |
+| The Telenav Metrics Dashboard for OpenStreetMap<br><i>Adriana Lazar (Telenav)</i> |
+| State of OSM in Mozambique: community presentation and on-going projects<br><i>Remígio van Eys Chilaule (#MapeandoMeuBairro)</i> |
+| Wikimedia in disaster management and humanitarian aid: an overview<br><i>Daniel Mietchen (WikiProject Medicine)</i> |
+| Maps based on Wikidata queries<br><i>Daniel Mietchen (WikiProject Medicine)</i> |
+| MapIt - Global trash hunt<br><i>Kristiina Kerge (Let's Do It Foundation)</i> |
+| The face of OSM in Togo: data analysis and achievements<br><i>SAMA Balémta Aimée (OpenStreetMap TOGO)</i> |
+
+
+## Workshops and Panel sessions
+
+| List of sessions |
+|------------------------|
+| The road towards diversity in OSM still needs to be mapped<br><i>Selene Yang (Geochicas)</i> |
+| Open Gender Monologues<br><i>Heather Leson (OSMF)</i> |
+| OpenStreetMap and the future of transport<br><i>Christina Franken</i> |
+| Exploring OSM's history using the "ohsome" data analysis platform<br><i>Martin Raifer (HeiGIT / Heidelberg University)</i> |
+| Sustainability of OSM Mapping Projects<br><i>Robert Soden (GFDRR/World Bank)</i> |
+| The LWG Presents: GDPR Implementation for OSM<br><i>Kathleen Lu (Legal/Licensing Working Group)</i> |
+| Building your OSM web app in minutes with vector tiles<br><i>Arun Ganesh (Mapbox)</i> |
+| Areas, Routing, and Diffs: Can we have Something Better than Relations?<br><i>Roland Olbricht</i> |
+| Navigation Mapping Workshop<br><i>Kajari Ghosh (Mapbox)</i> |
+| Terra Incognita: discovering Machine Learning for geospatial analysis<br><i>Michele Ferretti, gianni barlacchi (King's College London)</i> |
+| Field Mapping tools & technologies<br><i>Paul Uithol (Humanitarian OpenStreetMap Team)</i> |
+| Humans and Machines Mapping Together<br><i>Zhuangfang NaNa Yi (Development Seed)</i> |
+
+
+Have more ideas? There will be spare rooms available to run a "Breakout Session". Sign up at State of the Map using the provided notice board.
 
 *Your State of the Map organizing team.*
