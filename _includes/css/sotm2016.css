@@ -395,18 +395,6 @@ h3.small-title {
     font-size: 20px;
 }
 
-h3.small-title:before {
-    content: '';
-    display: block;
-    width: 30px;
-    height: 3px;
-    border-radius: 5px;
-    background-color: #dbdbdb;
-    position: absolute;
-    bottom: -13px;
-    left: 0px;
-}
-
 p.varela {
     font-family: 'Varela Round',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 17px;
