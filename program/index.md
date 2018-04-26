@@ -51,7 +51,7 @@ There will be plenty of breakout rooms throughout for discussions, code, documen
 | Printing OSM Maps<br><i>Hartmut Holzgraefe</i> |
 | Energy efficient routing with OSM<br><i>Arndt Brenschede</i> |
 | How Deep Learning could help to improve OSM Data Quality ?<br><i>Olivier Courtin (DataPink)</i> |
-| Improving OSMCha for the community<br><i>Wille Marcel Lima Malheiro (Independent)</i> |
+| Improving OSMCha for the community<br><i>Wille Marcel Lima Malheiro</i> |
 | Community Mapping for Refugees in Uganda<br><i>Geoffrey Kateregga (MapUganda)</i> |
 | OsmAnd making live maps update<br><i>Victor Shcherb (OsmAnd)</i> |
 | Flying ferries and moving pavements? Pedestrian routing on rare modes of transport<br><i>Guillaume Rischard</i> |
