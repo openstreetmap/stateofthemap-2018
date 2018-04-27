@@ -125,7 +125,7 @@ There will be plenty of breakout rooms throughout for discussions, code, documen
 | Exploring OSM's history using the "ohsome" data analysis platform<br><i>Martin Raifer (HeiGIT / Heidelberg University)</i> |
 | Sustainability of OSM Mapping Projects<br><i>Robert Soden (GFDRR/World Bank)</i> |
 | The LWG Presents: GDPR Implementation for OSM<br><i>Kathleen Lu (Legal/Licensing Working Group)</i> |
-| Building your OSM web app in minutes with vector tiles<br><i>Arun Ganesh (Mapbox)</i> |
+| Building your OSM web app in minutes with vector tiles<br><i>Lukas Martinelli and Jinal Foflia (Mapbox)</i> |
 | Areas, Routing, and Diffs: Can we have Something Better than Relations?<br><i>Roland Olbricht</i> |
 | Navigation Mapping Workshop<br><i>Kajari Ghosh (Mapbox)</i> |
 | Terra Incognita: discovering Machine Learning for geospatial analysis<br><i>Michele Ferretti, gianni barlacchi (King's College London)</i> |
