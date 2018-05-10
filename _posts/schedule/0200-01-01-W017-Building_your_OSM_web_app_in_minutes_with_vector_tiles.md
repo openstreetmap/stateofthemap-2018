@@ -2,8 +2,8 @@
 layout: event
 title: "Building your OSM web app in minutes with vector tiles"
 ref: "W017"
-name: "Arun Ganesh"
-authors: "Arun Ganesh"
+name: "Lukas Martinelli and Jinal Foflia"
+authors: "Lukas Martinelli and Jinal Foflia"
 affiliations: "Mapbox"
 organization: "Mapbox"
 extra_tags:
