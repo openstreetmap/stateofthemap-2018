@@ -2,7 +2,7 @@
 layout: event
 title: "The challenges and issues associated with a natural resource mapping framework based upon OpenStreetMap"
 ref: "A14"
-name: "Chris Emberson et.al."
+name: "Chris Emberson,  Chris Hill,  Gemma Gubbins,  Andrew Harfoot"
 authors: "Chris Emberson 1, Chris Hill 1, Gemma Gubbins 1, Andrew Harfoot 1"
 affiliations: "¹ GeoData Institute, University of Southampton, Highfield, Southampton, UK"
 organization: ""

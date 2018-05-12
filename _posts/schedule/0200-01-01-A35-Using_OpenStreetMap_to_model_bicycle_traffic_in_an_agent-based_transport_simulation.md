@@ -2,7 +2,7 @@
 layout: event
 title: "Using OpenStreetMap to model bicycle traffic in an agent-based transport simulation"
 ref: "A35"
-name: "Dominik Ziemke et.al."
+name: "Dominik Ziemke,  Simon Metzler"
 authors: "Dominik Ziemke, Simon Metzler"
 affiliations: "Technische Universität Berlin, Berlin, Germany"
 organization: ""

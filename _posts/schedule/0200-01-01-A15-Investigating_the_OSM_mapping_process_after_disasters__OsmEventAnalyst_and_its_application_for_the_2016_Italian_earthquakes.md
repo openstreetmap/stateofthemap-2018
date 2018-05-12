@@ -2,7 +2,7 @@
 layout: event
 title: "Investigating the OSM mapping process after disasters: OsmEventAnalyst and its application for the 2016 Italian earthquakes"
 ref: "A15"
-name: "Luca Delucchi et.al."
+name: "Luca Delucchi,  Marco Minghini"
 authors: "Luca Delucchi 1, Marco Minghini 2"
 affiliations: "¹ Fondazione Edmund Mach, Centro Ricerca e Innovazione, San Michele all’Adige, Italy; ² Politecnico di Milano, Department of Civil and Environmental Engineering, Milano, Italy"
 organization: ""

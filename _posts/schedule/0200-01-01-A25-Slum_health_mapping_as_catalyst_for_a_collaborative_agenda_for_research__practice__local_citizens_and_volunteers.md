@@ -2,7 +2,7 @@
 layout: event
 title: "Slum health mapping as catalyst for a collaborative agenda for research, practice, local citizens and volunteers"
 ref: "A25"
-name: "João Porto de Albuquerque et.al."
+name: "João Porto de Albuquerque,  Godwin Yeboah,  Vangelis Pitidis,  Philipp Ulbrich"
 authors: "João Porto de Albuquerque 1, Godwin Yeboah 1, Vangelis Pitidis 2, Philipp Ulbrich 2,"
 affiliations: "¹ Centre for Interdisciplinary Methodologies, University of Warwick, Coventry, UK; ² Warwick Institute for the Science of Cities, University of Warwick,  Coventry, UK"
 organization: ""
