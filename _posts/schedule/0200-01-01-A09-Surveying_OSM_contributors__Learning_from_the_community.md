@@ -2,7 +2,7 @@
 layout: event
 title: "Surveying OSM contributors: Learning from the community"
 ref: "A09"
-name: "Zoe Gardner et.al."
+name: "Zoe Gardner,  Peter Mooney"
 authors: "Zoe Gardner 1, Peter Mooney 2"
 affiliations: "¹ University of Nottingham, School of Geography,  Nottingham, UK; ² Maynooth University, Department of Computer Science, Maynooth, Ireland"
 organization: ""

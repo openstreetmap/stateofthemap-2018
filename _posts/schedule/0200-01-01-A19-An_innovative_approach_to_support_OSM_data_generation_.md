@@ -2,7 +2,7 @@
 layout: event
 title: "An innovative approach to support OSM data generation "
 ref: "A19"
-name: "Emanuela Mihut et.al."
+name: "Emanuela Mihut,  Lucian Dragut,  Mariana Belgiu"
 authors: "Emanuela Mihut 1, Lucian Dragut 2, Mariana Belgiu 3"
 affiliations: "¹ Department of geography, West University of Timisoara, Timisoara, Romania; ² Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Enschede, The Netherlands
 "

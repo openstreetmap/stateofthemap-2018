@@ -2,7 +2,7 @@
 layout: event
 title: "Coordinating improved communication between the academic and OpenStreetMap communities"
 ref: "A05"
-name: "Peter Mooney et.al."
+name: "Peter Mooney,  Joost Schouppe,  Frank Ostermann"
 authors: "Peter Mooney ¹, Joost Schouppe ², Frank Ostermann ³,"
 affiliations: "¹  Maynooth University, Department of Computer Science, Maynooth, Ireland; ² OpenStreetMap Belgium; ³ Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Enschede, The Netherlands"
 organization: ""
