@@ -2,8 +2,8 @@
 layout: event
 title: "Large Scale Deep Learning for Map Making"
 ref: "T115"
-name: "Bogdan Gliga"
-authors: "Bogdan Gliga"
+name: "Alina Negreanu and Bogdan Gliga"
+authors: "Alina Negreanu and Bogdan Gliga"
 affiliations: "Telenav"
 organization: "Telenav"
 extra_tags:
