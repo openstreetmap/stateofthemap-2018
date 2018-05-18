@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Making Social Welfare Data available: The DSWD Map Viewer "
+title: "Mental Health A-WHERE-ness PH: Mapping mental health resources in the Philippines"
 ref: "L018"
 name: "Sandra Tabinas"
 authors: "Sandra Tabinas"
@@ -23,6 +23,4 @@ tags:
   - lightning_talks_block_6
   - lightning_talk
 ---
-The session will be an introduction on the Philippine Department of Social Welfare and Development&#39;s (DSWD&#39;s) online interactive platform for accessing maps by its GIS personnel, the DSWD MapViewer (https://maps.dswd.gov.ph). The MapViewer aims to share relevant data and geospatial information to users - from researchers, students, and to those who are looking for information on DSWD&#39;s services and projects. The MapViewer also provides these maps and interactive tools to assist policy and decision-makers to review, affirm, and establish conclusions based on pertinent data.
-
-I hope to show the different maps and data made available using this platform and how it aims to help the policy and decision-makers, as well as those who want to volunteer for social welfare and development work. I hope to also talk about future plans in improving this platform and how to further add data.
+The session will be about mental health care in the Philippines and the services available to individuals suffering from mental health issues in the country. I hope to introduce the map I have made for this cause which I called "Mental Health A-WHERE-ness PH". This map shows the locations of free and paid mental health facilities and services that offer help to people with depression, anxiety, drug and alcohol dependency, etc. I also hope that through this map, which could show the reality of how the Philippines fares in mental health care, those who have the power and the means to help teach mental health awareness and improve services in the country may be made aware of this situation.

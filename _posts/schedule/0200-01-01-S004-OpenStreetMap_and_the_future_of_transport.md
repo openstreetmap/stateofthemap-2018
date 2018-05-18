@@ -2,8 +2,8 @@
 layout: event
 title: "OpenStreetMap and the future of transport"
 ref: "S004"
-name: "CHRISTINA FRANKEN"
-authors: "CHRISTINA FRANKEN"
+name: "Michele Ferretti"
+authors: "Michele Ferretti"
 affiliations: ""
 organization: ""
 extra_tags:
