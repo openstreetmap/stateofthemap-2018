@@ -2,8 +2,8 @@
 layout: event
 title: "MapIt - Global trash hunt"
 ref: "L051"
-name: "Kristiina Kerge"
-authors: "Kristiina Kerge"
+name: "Kristiina Kerge and Kadri Maripuu"
+authors: "Kristiina Kerge and Kadri Maripuu"
 affiliations: "Let&#39;s Do It Foundation"
 organization: "Let&#39;s Do It Foundation"
 category: lightning
