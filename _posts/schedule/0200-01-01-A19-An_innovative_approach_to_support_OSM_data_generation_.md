@@ -10,7 +10,7 @@ organization: ""
 extra_tags:
   - "academic_track"
 room: "S.1.3"
-sortroom: "4"
+sortroom: "3"
 length: "30 minutes"
 time: "Sunday 14:00"
 tags:

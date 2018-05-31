@@ -10,7 +10,7 @@ extra_tags:
   - "workshop"
   - "workshop"
 room: "S.1.5"
-sortroom: "3"
+sortroom: "4"
 length: "60 minutes"
 time: "Sunday 16:30"
 tags:

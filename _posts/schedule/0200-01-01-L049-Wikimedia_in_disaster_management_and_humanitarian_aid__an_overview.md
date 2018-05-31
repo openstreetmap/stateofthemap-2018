@@ -13,7 +13,7 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_1"
 room: "S.1.5"
-sortroom: "3"
+sortroom: "4"
 length: "5 minutes"
 time: "Saturday 14:10"
 tags:

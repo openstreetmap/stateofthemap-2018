@@ -10,7 +10,7 @@ extra_tags:
   - "panel"
   - "panel"
 room: "S.1.5"
-sortroom: "3"
+sortroom: "4"
 length: "60 minutes"
 time: "Monday 11:30"
 tags:

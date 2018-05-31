@@ -10,7 +10,7 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_10"
 room: "S.1.5"
-sortroom: "3"
+sortroom: "4"
 length: "30 minutes"
 time: "Monday 16:00"
 tags:
