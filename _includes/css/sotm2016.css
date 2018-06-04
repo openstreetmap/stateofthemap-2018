@@ -528,18 +528,6 @@ h3.small-title.gold_sponsors:before {
    position: relative;
 }
 
-h3.smaller-title.silver_sponsors:before {
-   background-color: #c0c0c0;
-   content: '';
-   display: block;
-   width: 30px;
-   height: 3px;
-   border-radius: 5px;
-   position: absolute;
-   bottom: -13px;
-   left: 0px;
-}
-
 .bronze_sponsors {
    color: #a0522d;
 }
