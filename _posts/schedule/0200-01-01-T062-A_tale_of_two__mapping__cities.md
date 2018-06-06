@@ -2,8 +2,8 @@
 layout: event
 title: "A tale of two (mapping) cities"
 ref: "T062"
-name: "Alsino Skowronnek"
-authors: "Alsino Skowronnek"
+name: "Alsino Skowronnek, Michele Ferretti"
+authors: "Alsino Skowronnek, Michele Ferretti"
 affiliations: "Maptime"
 organization: "Maptime"
 extra_tags:
