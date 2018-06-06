@@ -8,13 +8,13 @@ affiliations: "OsmAnd"
 organization: "OsmAnd"
 extra_tags:
   - ""
-room: "S.1.5"
-sortroom: "4"
+room: "De Donato"
+sortroom: "1"
 length: "30 minutes"
-time: "Sunday 16:00"
+time: "Saturday 15:10"
 tags:
   - sotmevent
-  - slot28
+  - slot11
   - 
 ---
 I would like to explain what difficulties we encountered while making OsmAnd maps updated every hour / every 5 minutes.
