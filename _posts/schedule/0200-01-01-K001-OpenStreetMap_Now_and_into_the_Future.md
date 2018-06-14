@@ -1,8 +1,6 @@
 ---
 layout: event
-title: "OpenStreetMap—Now and into the Future
-
-"
+title: "OpenStreetMap—Now and into the Future"
 ref: "K001"
 name: "Kate Chapman, Heather Leson"
 authors: "Kate Chapman, Heather Leson"
