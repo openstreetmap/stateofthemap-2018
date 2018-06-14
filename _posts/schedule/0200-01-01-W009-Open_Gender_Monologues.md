@@ -13,6 +13,7 @@ room: "S.1.5"
 sortroom: "4"
 length: "60 minutes"
 time: "Saturday 16:40"
+recording: false
 tags:
   - sotmevent
   - slot14

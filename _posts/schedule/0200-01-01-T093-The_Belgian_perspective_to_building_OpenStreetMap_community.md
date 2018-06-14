@@ -2,8 +2,8 @@
 layout: event
 title: "The Belgian perspective to building OpenStreetMap community"
 ref: "T093"
-name: "Joost Schouppe (in name of the OSM-be Board)"
-authors: "Joost Schouppe (in name of the OSM-be Board)"
+name: "Ben Abelshausen, Joost Schouppe"
+authors: "Ben Abelshausen, Joost Schouppe"
 affiliations: "OpenStreetMap Belgium"
 organization: "OpenStreetMap Belgium"
 extra_tags:
@@ -12,6 +12,7 @@ room: "S.0.2"
 sortroom: "2"
 length: "30 minutes"
 time: "Saturday 14:10"
+recording: true
 tags:
   - sotmevent
   - slot9

@@ -13,6 +13,7 @@ room: "S.1.5"
 sortroom: "4"
 length: "30 minutes"
 time: "Monday 09:30"
+recording: false
 tags:
   - sotmevent
   - slot31

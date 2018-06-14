@@ -826,3 +826,17 @@ table.scheduleTable span.extraTag {
 td.scheduleBreak {
     text-align: center;
 }
+
+/* no recording icons in schedule */
+img.noRecordingBright,
+img.noRecordingDark {
+    display: inline;
+}
+
+img.noRecordingBright {
+    margin-left: 10px;
+}
+
+img.noRecordingDark {
+    margin-right: 10px;
+}

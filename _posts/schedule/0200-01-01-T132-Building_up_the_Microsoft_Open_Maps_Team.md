@@ -2,8 +2,8 @@
 layout: event
 title: "Building up the Microsoft Open Maps Team"
 ref: "T132"
-name: "Alexandra Kazakova"
-authors: "Alexandra Kazakova"
+name: "Oisin Herriott"
+authors: "Oisin Herriott"
 affiliations: "Microsoft"
 organization: "Microsoft"
 extra_tags:
@@ -12,6 +12,7 @@ room: "S.0.2"
 sortroom: "2"
 length: "30 minutes"
 time: "Saturday 15:10"
+recording: true
 tags:
   - sotmevent
   - slot11
