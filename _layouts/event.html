@@ -8,9 +8,9 @@ color: dark-nav
     <div class='pad4y col12 clearfix space-bottom8'>
       <div class='col4'><h2 class='spartan color-{{page.color}}2'>{{page.title}}</h2>
         <span class='inline pad0'>{{page.time}}, {{page.room}}</span>
-	{% if page.extra_tags contains 'no_record' %}
-	<span class='inline pad0'>This event will not be recorded.</span>
-	{% endif %}
+	{% unless page.recording %}
+        <span class='inline pad0'><img src="/img/novideo-dark.svg" class="noRecordingDark" height="25" alt="no recording" title="This session will not be recorded."> This event will not be recorded.</span>
+	{% endunless %}
         {% unless page.category == 'lightning' %}
         <p class="space-top2">
            <!--<span class='inline pad0 dot fill-{{page.category | replace: ' ',  '-'}}'></span>-->

@@ -13,6 +13,7 @@ room: "De Donato"
 sortroom: "1"
 length: "60 minutes"
 time: "Sunday 12:00"
+recording: true
 tags:
   - sotmevent
   - slot21
