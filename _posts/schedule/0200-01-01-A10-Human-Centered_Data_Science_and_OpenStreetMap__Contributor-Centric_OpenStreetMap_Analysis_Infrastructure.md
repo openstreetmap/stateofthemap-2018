@@ -12,7 +12,7 @@ room: "S.1.3"
 sortroom: "3"
 length: "30 minutes"
 time: "Sunday 11:30"
-recording: false
+recording: true
 tags:
   - sotmevent
   - slot20
