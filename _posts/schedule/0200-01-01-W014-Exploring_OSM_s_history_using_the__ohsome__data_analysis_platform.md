@@ -2,8 +2,8 @@
 layout: event
 title: "Exploring OSM&#39;s history using the &#34;ohsome&#34; data analysis platform"
 ref: "W014"
-name: "Martin Raifer"
-authors: "Martin Raifer"
+name: "Martin Raifer, Rafael Troilo and Fabian Kowatsch"
+authors: "Martin Raifer, Rafael Troilo and Fabian Kowatsch"
 affiliations: "HeiGIT / Heidelberg University"
 organization: "HeiGIT / Heidelberg University"
 extra_tags:
