@@ -2,8 +2,8 @@
 layout: event
 title: "The road towards diversity in OSM still needs to be mapped"
 ref: "W005"
-name: "Selene Yang"
-authors: "Selene Yang"
+name: "Celine Jacquin"
+authors: "Celine Jacquin"
 affiliations: "Geochicas"
 organization: "Geochicas"
 extra_tags:
