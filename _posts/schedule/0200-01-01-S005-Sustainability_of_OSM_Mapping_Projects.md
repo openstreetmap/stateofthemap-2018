@@ -2,8 +2,8 @@
 layout: event
 title: "Sustainability of OSM Mapping Projects"
 ref: "S005"
-name: "Robert Soden"
-authors: "Robert Soden"
+name: "Erica Hagen"
+authors: "Erica Hagen"
 affiliations: "GFDRR/World Bank"
 organization: "GFDRR/World Bank"
 extra_tags:
