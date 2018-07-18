@@ -2,10 +2,10 @@
 layout: event
 title: "DRONEBIRDs are go!"
 ref: "T116"
-name: "Taichi FURUHASHI"
-authors: "Taichi FURUHASHI"
-affiliations: "Aoyama Gakuin University "
-organization: "Aoyama Gakuin University "
+name: "Sajjad Anwar"
+authors: "Sajjad Anwar"
+affiliations: "Development Seed"
+organization: "Development Seed"
 extra_tags:
   - ""
 room: "S.0.2"
