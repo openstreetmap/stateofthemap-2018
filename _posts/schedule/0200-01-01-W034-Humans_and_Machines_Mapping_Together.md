@@ -2,8 +2,8 @@
 layout: event
 title: "Humans and Machines Mapping Together"
 ref: "W034"
-name: "Zhuangfang NaNa Yi"
-authors: "Zhuangfang NaNa Yi"
+name: "Sajjad Anwar"
+authors: "Sajjad Anwar"
 affiliations: "Development Seed"
 organization: "Development Seed"
 extra_tags:
