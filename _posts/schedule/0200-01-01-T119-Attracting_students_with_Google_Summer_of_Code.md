@@ -2,8 +2,8 @@
 layout: event
 title: "Attracting students with Google Summer of Code"
 ref: "T119"
-name: "Peter Barth"
-authors: "Peter Barth"
+name: "Tobias Knerr"
+authors: "Tobias Knerr"
 affiliations: "none"
 organization: "none"
 extra_tags:
