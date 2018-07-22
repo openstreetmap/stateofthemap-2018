@@ -1,6 +1,7 @@
 ---
 layout: it/defaultit
 role: index
+additional_head_includes: map_head.html
 ---
 
 {% include header.html %}
@@ -8,5 +9,7 @@ role: index
 {% include it/announceit.html %}
 <!-- {% include videos.html %} -->
 {% include it/newsletterit.html %}
+<section class="map-container">
 {% include map.html %}
+</section>
 {% include it/sponsorsit.html %}
