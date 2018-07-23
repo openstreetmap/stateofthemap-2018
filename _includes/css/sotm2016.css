@@ -262,7 +262,7 @@ a:focus {
 
 #map {
     width: 100%;
-    height: 200px;
+    height: 300px;
     top: 0;
     bottom: 0;
 }
@@ -277,7 +277,7 @@ a:focus {
     }
 
     #map {
-        height: 400px;
+        height: 500px;
     }
 }
 
@@ -465,8 +465,15 @@ input#mce-EMAIL::selection {
 }
 
 .map-container {
-    height: 400px;
+    height: 500px;
     position: relative;
+}
+
+@media only screen and (max-width:766px) {
+    .map-container {
+        height: 300px;
+        position: relative;
+    }
 }
 
 
