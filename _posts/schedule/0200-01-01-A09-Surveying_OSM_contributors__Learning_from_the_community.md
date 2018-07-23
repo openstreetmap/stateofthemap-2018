@@ -24,4 +24,4 @@ During SOTM 2018, to both acknowledge the valuable contribution made by the user
 
 As well as these results, this paper will share some qualitative insights of working with and learning from the OSM community in this context. Topics will include the nature and role of mailing lists and their administrators; maintaining user anonymity in OSM; and mitigating language barriers for maximum inclusion. Through sharing our experience of these issues, it is hoped that during our paper presentation we can initiate a collaborative discussion about best practice in learning from OSM contributors themselves, as well as developing strategies to positively engage and develop a productive dialogue with OSM contributors for the benefit of both the scientific and OSM contributor communities. This will hopefully result in an ongoing dialogue post-conference focussed on how to improve academic engagement with the OSM user community. In these dialogues the potential further exploration of OSM as source of quantitative as well as rich qualitative data  on its contributors will be discussed.
 
-[1] https://goo.gl/iv6cFm 
+[1] https://goo.gl/iv6cFm
