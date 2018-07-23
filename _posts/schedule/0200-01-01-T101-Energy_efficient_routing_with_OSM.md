@@ -11,7 +11,7 @@ extra_tags:
 room: "De Donato"
 sortroom: "1"
 length: "30 minutes"
-time: "Monday 13:30"
+time: "Monday 12:30"
 recording: true
 tags:
   - sotmevent
