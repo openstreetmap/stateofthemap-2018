@@ -11,7 +11,7 @@ extra_tags:
 room: "S.1.5"
 sortroom: "4"
 length: "30 minutes"
-time: "Monday 13:30"
+time: "Monday 12:30"
 recording: false
 tags:
   - sotmevent
