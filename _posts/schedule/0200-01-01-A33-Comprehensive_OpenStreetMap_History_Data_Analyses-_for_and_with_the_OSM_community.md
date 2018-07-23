@@ -4,7 +4,7 @@ title: "Comprehensive OpenStreetMap History Data Analyses- for and with the OSM 
 ref: "A33"
 name: "Michael Auer,  Melanie Eckle,  Sascha Fendrich,  Fabian Kowatsch,  Sabrina Marx,  Martin Raifer,  Moritz Schott,  Rafael Troilo,  Alexander Zipf"
 authors: "Michael Auer, Melanie Eckle, Sascha Fendrich, Fabian Kowatsch, Sabrina Marx, Martin Raifer, Moritz Schott, Rafael Troilo, Alexander Zipf"
-affiliations: "¹ Heidelberg University, Heidelberg Institute for Geoinformation Technology, GIScience Research Group, Department of Geography"
+affiliations: "Heidelberg University, Heidelberg Institute for Geoinformation Technology, GIScience Research Group, Department of Geography"
 organization: ""
 extra_tags:
   - "academic_track"

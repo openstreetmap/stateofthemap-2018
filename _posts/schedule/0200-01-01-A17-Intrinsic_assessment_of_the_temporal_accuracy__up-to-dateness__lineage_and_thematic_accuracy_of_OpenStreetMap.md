@@ -3,7 +3,7 @@ layout: event
 title: "Intrinsic assessment of the temporal accuracy, up-to-dateness, lineage and thematic accuracy of OpenStreetMap"
 ref: "A17"
 name: "Francesco Frassinelli,  Marco Minghini,  Maria Antonia Brovelli"
-authors: "Francesco Frassinelli 1, Marco Minghini 1, Maria Antonia Brovelli 1"
+authors: "Francesco Frassinelli ¹, Marco Minghini ¹, Maria Antonia Brovelli ¹"
 affiliations: "¹ Politecnico di Milano, Department of Civil and Environmental Engineering,  Milano, Italy"
 organization: ""
 extra_tags:
