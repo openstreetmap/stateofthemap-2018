@@ -8,6 +8,7 @@ affiliations: ""
 organization: ""
 extra_tags:
   - "workshop"
+  - "old_description"
   - ""
 room: "S.1.5"
 sortroom: "4"
@@ -21,6 +22,8 @@ tags:
   - workshop
   - 
 ---
+**This session has been replaced by [Present and Future of the OSM data model from the Overpass API perspective](../W019-Present_and_Future_of_the_OSM_data_model_from_the_Overpass_API_perspective/). The old description was:**
+
 While newbies usually comprehend nodes and ways immediately,
 even a lot of experienced mappers are wary of relations.
 Defining areas by relations has required a month-long effort to get rid of broken relations.
