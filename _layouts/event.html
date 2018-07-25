@@ -3,97 +3,23 @@ layout: program
 color: fill-midnight
 color: dark-nav
 ---
-{% case page.room %}
-{% when 'a' %}
-{% assign room = 'Auditorium A' %}
-{% when 'b' %}
-{% assign room = 'Auditorium C' %}
-{% else %}
-{% assign room = page.room %}
-{% endcase %}
-
-{% if page.tags contains 'slot1' %}
-{% assign time = 'Friday 10:30am' %}
-{% elsif page.tags contains 'slot2' %}
-{% assign time = 'Friday 11:00am' %}
-{% elsif page.tags contains 'slot3' %}
-{% assign time = 'Friday 12:00am' %}
-{% elsif page.tags contains 'slot4' %}
-{% assign time = 'Friday 12:30pm' %}
-{% elsif page.tags contains 'slot5' %}
-{% assign time = 'Friday 2:10pm' %}
-{% elsif page.tags contains 'slot6' %}
-{% assign time = 'Friday 2:40pm' %}
-{% elsif page.tags contains 'slot7' %}
-{% assign time = 'Friday 3:10pm' %}
-{% elsif page.tags contains 'slot8' %}
-{% assign time = 'Friday 4:10pm' %}
-{% elsif page.tags contains 'slot9' %}
-{% assign time = 'Friday 4:40pm' %}
-{% elsif page.tags contains 'slot10' %}
-{% assign time = 'Friday 5:10pm' %}
-{% elsif page.tags contains 'slot11' %}
-{% assign time = 'Saturday 9:30pm' %}
-{% elsif page.tags contains 'slot12' %}
-{% assign time = 'Saturday 10:00am' %}
-{% elsif page.tags contains 'slot13' %}
-{% assign time = 'Saturday 10:30am' %}
-{% elsif page.tags contains 'slot14' %}
-{% assign time = 'Saturday 11:30am' %}
-{% elsif page.tags contains 'slot15' %}
-{% assign time = 'Saturday 12:00am' %}
-{% elsif page.tags contains 'slot16' %}
-{% assign time = 'Saturday 12:30pm' %}
-{% elsif page.tags contains 'slot17' %}
-{% assign time = 'Saturday 2:00pm' %}
-{% elsif page.tags contains 'slot18' %}
-{% assign time = 'Saturday 2:30pm' %}
-{% elsif page.tags contains 'slot19' %}
-{% assign time = 'Saturday 3:00pm' %}
-{% elsif page.tags contains 'slot20' %}
-{% assign time = 'Saturday 4:00pm' %}
-{% elsif page.tags contains 'slot21' %}
-{% assign time = 'Saturday 4:30pm' %}
-{% elsif page.tags contains 'slot22' %}
-{% assign time = 'Sunday 9:30am' %}
-{% elsif page.tags contains 'slot23' %}
-{% assign time = 'Sunday 11:15am' %}
-{% elsif page.tags contains 'slot24' %}
-{% assign time = 'Sunday 1:30pm' %}
-{% elsif page.tags contains 'slot25' %}
-{% assign time = 'Sunday 3:15pm' %}
-{% elsif page.time contains 'friday' %}
-{% assign time = 'Friday Lightning talk' %}
-{% elsif page.time contains 'sunday' %}
-{% assign time = 'Sunday Lightning talk' %}
-{% endif %}
-
-{% if page.tags contains 'slot22' %}
-{% assign length = '75min' %}
-{% elsif page.tags contains 'slot23' %}
-{% assign length = '75min' %}
-{% elsif page.tags contains 'slot24' %}
-{% assign length = '75min' %}
-{% elsif page.tags contains 'slot25' %}
-{% assign length = '75min' %}
-{% else %}
-{% assign length = '30min' %}
-{% endif %}
-
 <div class='' id="event-page">
   <div class=''>
     <div class='pad4y col12 clearfix space-bottom8'>
       <div class='col4'><h2 class='spartan color-{{page.color}}2'>{{page.title}}</h2>
-        <span class='inline pad0'>{{time}}, {{room}}</span>
+        <span class='inline pad0'>{{page.time}}, {{page.room}}</span>
+	{% unless page.recording %}
+        <span class='inline pad0'><img src="/img/novideo-dark.svg" class="noRecordingDark" height="25" alt="no recording" title="This session will not be recorded."> This event will not be recorded.</span>
+	{% endunless %}
         {% unless page.category == 'lightning' %}
         <p class="space-top2">
            <!--<span class='inline pad0 dot fill-{{page.category | replace: ' ',  '-'}}'></span>-->
-           Theme:<br>
-          &bull; <span class='sans capitalize'>{{page.theme}}</span>
+           <!--Theme:<br>
+	   &bull; <span class='sans capitalize'>{{page.theme}}</span>-->
         </p>
         <p class="space-top2">
-          Audience:<br>
-          &bull; <span class='sans capitalize'>{{page.audience}}</span>
+          <!--Audience:<br>
+	  &bull; <span class='sans capitalize'>{{page.audience}}</span>-->
         </p>
         {% endunless %}
       </div>
@@ -101,8 +27,8 @@ color: dark-nav
         <header class='space-bottom2'>
 
           <div class='col12'>
-            <h3 class='inline event-title'>{{page.name}}
-               <small class='inline pad1x'>{{ length }}</small>
+            <h3 class='inline event-title'>{{page.authors}}
+               <small class='inline pad1x'>{{page.length}}</small>
             </h3>
 
             {% if page.twitter %}
@@ -125,7 +51,7 @@ color: dark-nav
 
           <small class="space-bottom1 space-top0 inline">
             {% if page.role %}<span class='sans'>{{page.role}}</span>{% endif %}
-            {% if page.organization %}<span class='sans'>{{page.organization}}</span>{% endif %}
+            {% if page.affiliations %}<span class='sans'>{{page.affiliations}}</span>{% endif %}
 
 
           </small>
@@ -153,12 +79,12 @@ color: dark-nav
 
       {% if page.category == 'lightning' %}
         <a
-          href='{{site.baseurl}}/lightning-talks'
+          href='{{site.baseurl}}/lightning_talks'
           class='button pad2x stroke icon prev space-top4 round-big'>Back to lightning talks</a>
 
       {% else %}
         <a
-          href='{{site.baseurl}}/program'
+	    href='{{site.baseurl}}/program/#{{page.ref}}'
           class='button pad2x stroke icon prev space-top4 round-big'>Back to program</a>
       {% endif %}
       </div>

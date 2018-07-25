@@ -395,18 +395,6 @@ h3.small-title {
     font-size: 20px;
 }
 
-h3.small-title:before {
-    content: '';
-    display: block;
-    width: 30px;
-    height: 3px;
-    border-radius: 5px;
-    background-color: #dbdbdb;
-    position: absolute;
-    bottom: -13px;
-    left: 0px;
-}
-
 p.varela {
     font-family: 'Varela Round',"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 17px;
@@ -538,18 +526,6 @@ h3.small-title.gold_sponsors:before {
 .silver_sponsors {
    color: #c0c0c0;
    position: relative;
-}
-
-h3.smaller-title.silver_sponsors:before {
-   background-color: #c0c0c0;
-   content: '';
-   display: block;
-   width: 30px;
-   height: 3px;
-   border-radius: 5px;
-   position: absolute;
-   bottom: -13px;
-   left: 0px;
 }
 
 .bronze_sponsors {
@@ -800,6 +776,11 @@ a:hover.sessiontitle {
     letter-spacing: 0px;
 }
 
+/* no bold labels in the program */
+.program-block label {
+    font-weight: normal
+}
+
 /* Category fills
 ---------------------------------------------- */
 .dot.fill-all                 { background-color:#ffffff; }
@@ -819,3 +800,43 @@ a:hover.sessiontitle {
 .dot.fill-Tools               { background-color:#f8d671; }
 .dot.fill-technical            { background-color:#3eab9f; }
 .dot.fill-lightning            { background-color:#f9d29d; }
+
+/* schedule table */
+table.scheduleTable thead tr.fill-purple td {
+    border-style: none;
+}
+
+table.scheduleTable span.speaker,
+table.scheduleTable span.extraTag {
+    letter-spacing: 0;
+    display: block;
+}
+
+table.scheduleTable span.speaker {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+table.scheduleTable span.extraTag {
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-size: 100%;
+}
+
+td.scheduleBreak {
+    text-align: center;
+}
+
+/* no recording icons in schedule */
+img.noRecordingBright,
+img.noRecordingDark {
+    display: inline;
+}
+
+img.noRecordingBright {
+    margin-left: 10px;
+}
+
+img.noRecordingDark {
+    margin-right: 10px;
+}

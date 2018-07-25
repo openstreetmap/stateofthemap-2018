@@ -23,7 +23,7 @@ time, mark, audio, video {
   padding:0;
   border:0;
   font-size:100%;
-  font:inherit;
+/*  font:inherit; */
   vertical-align:baseline;
   }
 /* HTML5 display-role reset for older browsers */
@@ -140,7 +140,7 @@ small { display:block; }
 .strong,
 strong {
   font-family:'Roboto', sans-serif;
-  font-weight:normal;
+/*  font-weight:normal; */
   }
   strong em,
   em strong { font-family:'Roboto', sans-serif; font-style: italic; }
@@ -166,7 +166,7 @@ a > code {
 
 .dark a,
 a.dark,
-.dark a > code  { color:rgba(255,255,255,.5); }
+.dark a > code  { color:rgba(255,255,255,.7); }
 a.dark.active,
 .dark a.active,
 a.dark:hover,

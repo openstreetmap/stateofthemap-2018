@@ -1,0 +1,14 @@
+---
+layout: program
+color: fill-midnight
+---
+{% assign first_post = site.tags.lightning_talks_block_7 | first %}
+{% capture this_page_tags %}{{ first_post.tags }}{% endcapture %}
+
+{% include lightning_talk_overview_1.html %}
+
+{% for post in site.tags.lightning_talks_block_7 %}
+{% include lightning_talk_snippet.html %}
+{% endfor %}
+
+{% include lightning_talk_overview_2.html %}
