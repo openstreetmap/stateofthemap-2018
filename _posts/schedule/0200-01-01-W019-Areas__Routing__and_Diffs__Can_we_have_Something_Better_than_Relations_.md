@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Areas, Routing, and Diffs: Can we have Something Better than Relations?"
+title: "Present and Future of the OSM data model from the Overpass API perspective"
 ref: "W019"
 name: "Roland Olbricht"
 authors: "Roland Olbricht"
@@ -21,21 +21,32 @@ tags:
   - workshop
   - 
 ---
-While newbies usually comprehend nodes and ways immediately,
-even a lot of experienced mappers are wary of relations.
-Defining areas by relations has required a month-long effort to get rid of broken relations.
+Note: Previous title was "Areas, Routing, and Diffs: Can we have Something Better than Relations?"
 
-Relations impede the tracking of changes and proper attribution:
-Getting all objects in a bounding box pulls easily millions of points,
-because multiple many-hundred-kilometer relations run through nearly all city or town centres.
+This workshop has two goals:
+First it is a follow-up of Jochen's talk about getting forward with the OSM data model.
+Second, as an experiment to whether people prefer a Q&A session, I would like to take people's questions about Overpass API.
+To propose topics and questions: [on the forum](https://forum.openstreetmap.org/viewtopic.php?id=63116), [by email](https://lists.openstreetmap.org/pipermail/talk/2018-July/081024.html).
 
-Could we overcome these difficulties with a different data model
-and keep all the existing software useful?
+While the talk part is intended to present the ideas, the detailed model and action plan will by laid out in a github repository to be accessible for public feedback.
 
-Yes we can:
-The existing node-way-relation data model is translated on the fly to a new data model called vertex-link-trigraph.
-Hence, all existing tools can continue with nodes-way-relation.
-The new model adresses the problem of splitting ways,
-the problem of keeping relation information in short and local chunks,
-and the problem of building areas.
-The talk explains the data model and introduces the first tools working with this data model.
+There is already an understanding what can be done to make working with ways easier:
+We will discuss both how ways can get direct geometry and how these changes can be implemented in the OSM ecosystem.
+
+The situation is much more intricate for relations:
+Our current approach of areas by relations has required a month-long project to get rid of broken ones.
+And broken areas can and do slowly come back.
+
+The properties of relations impede other use cases, too.
+A large fraction of all mappers keeps out of bus route mapping, because they do not trust their level of understanding all required details.
+
+In particular building routes depends on picking only part of an OSM way.
+We do not have a proper data model for that.
+Subsequently, mitigating this by splitting ways complicates the tracking of changes and proper attribution.
+
+This problem of change tracking is even far offset by the challenge of dealing with huge relations:
+Getting all objects in a bounding box pulls easily millions of points, because multiple many-hundred-kilometer relations run through nearly all city or town centres.
+
+So, all in all, could and should we overcome these difficulties with a different data model?
+Can we tackle to keep all the existing software useful?
+
