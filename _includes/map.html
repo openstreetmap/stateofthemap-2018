@@ -27,6 +27,7 @@ map.on('style.load', function() {
 });
 var el = document.createElement('div');
 el.className = 'marker';
+el.style.marginTop = '-35px';
 new mapboxgl.Marker(el)
   .setLngLat([9.22753, 45.4777])
   .addTo(map);
