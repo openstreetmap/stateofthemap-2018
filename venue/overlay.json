@@ -580,6 +580,30 @@
                 "name": "<strong>Route for pedestrians from Cadorna station to Old Fashion</strong><br>650 m, 8 minutes"
             },
             "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1642,
+                    45.4523
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "",
+                "name": "<strong>Friday evening informal gathering</strong><br>Grab food in one of the many nearby restaurants. In a radius of 300 m there is everything! Keep an eye out for others wearing OSM or SotM t-shirts. Later head to BASE Milano building for music and dance.",
+                "style": {
+                  "icon": "/img/bar-48.png",
+                  "color": "orange",
+                  "iconType": "umapIcon",
+                  "innerIconSize": [24, 24],
+                  "iconSize": [32, 32],
+                  "iconAnchor": [16, 38],
+                  "popupAnchor": [0, -38],
+                  "innerIconMarginTop": 4
+		}
+            },
+            "type": "Feature"
         }
     ],
     "type": "FeatureCollection"
