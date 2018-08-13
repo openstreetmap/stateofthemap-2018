@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot18
   - 
+slides: "/slides/T053-Solving_vehicle_routing_problems_with_OpenStreetMap_and_VROOM.pdf"
 ---
 VROOM is an open-source software written in C++ to solve vehicle routing problems (VRP) arising in logistics and more widely in any context with geographically distributed tasks. Using OpenStreetMap data to solve real-life problems, VROOM offers an out-of-the-box integration with OSRM and is extensible to work on top of any routing engine.
 
