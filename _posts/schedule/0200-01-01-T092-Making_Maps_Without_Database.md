@@ -18,5 +18,6 @@ tags:
   - slot3
   - 
 slides: "/slides/T092-Making_Maps_Without_Database.pdf"
+youtube_recording: "1eS8wao92o8"
 ---
 The first step of processing OpenStreetMap data is loading it into a PostGIS database, only to retrieve all of it later on. This talk proposes strategies and tools to generate maps without using a database, which has performance benefits as well as better control about the result.

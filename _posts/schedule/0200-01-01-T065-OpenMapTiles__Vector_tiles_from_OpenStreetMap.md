@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot5
   - 
+youtube_recording: "oI4GJE_v-zo"
 ---
 The OpenMapTiles is a free and open-source project, which makes it extremely easy to setup your own OpenStreetMap tileserver with vector and raster tiles. Design your own custom maps with an online editor or modify one of the beautiful open map styles. The maps are usable in web and mobile apps (with SDKs including Leaflet, OpenLayers, Mapbox), in desktop GIS tools and printed outputs.
 

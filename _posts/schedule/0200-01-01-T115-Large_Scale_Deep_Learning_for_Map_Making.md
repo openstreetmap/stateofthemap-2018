@@ -17,5 +17,6 @@ tags:
   - sotmevent
   - slot6
   - 
+youtube_recording: "a-XU1t5sgP8"
 ---
 In this talk, the Telenav OSM team talks about what we have learned from our experience building a horizontally scalable deep learning pipeline that can process the &gt;120 million images in the OpenStreetCam database. We will offer a technical perspective about how we used state of the art algorithms to detect a large number of traffic signs, extract road features like number of lanes visible on a road, and accurately perform text recognition on signs. This technology is now open source and available for anyone to use and improve upon!

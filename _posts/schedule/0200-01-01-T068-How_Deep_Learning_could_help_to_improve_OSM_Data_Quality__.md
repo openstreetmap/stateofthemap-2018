@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot7
   - 
+youtube_recording: "QyWFRY0Whq8"
 ---
 How DeepLearning, and semantic segmentation, can be an efficient way to detect and spot inconsistency in OSM dataset ? 
 
