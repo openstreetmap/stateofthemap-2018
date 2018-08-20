@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot15
   - 
+youtube_recording: "https://www.youtube.com/watch?v=b2_njRGmFO0"
 ---
 Any collaborative project needs to care about reviewing the contributions in order to maintain the quality of the data. OSMCha is one of the main OpenStreetMap quality assurance tools, it gives us a powerful interface to visualize a changeset and allows us to register if the changeset is good or if it causes some problem to the map. In 2018, our focus is to increment OSMCha with the features wished by the OSM community and engage more people to validate the map.
 
