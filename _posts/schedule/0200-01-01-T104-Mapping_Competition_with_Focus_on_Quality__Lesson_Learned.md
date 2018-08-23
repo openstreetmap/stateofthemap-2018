@@ -17,6 +17,6 @@ tags:
   - sotmevent
   - slot14
   - 
-youtube_recording: "https://www.youtube.com/watch?v=qfnbuiDA3cA"
+youtube_recording: "qfnbuiDA3cA"
 ---
 Most, if not all, mapping competition have tendency to focus on quantity. While it was fairly easy to count on how many object have been mapped and to determine the winner, the quality of edits usually suffers. To overcome this, we developed and hosted UniBattleMapping competition in 2017, participated by 50 mapping team from 17 universities in Indonesia. This competition put emphasize on the quality of the edits. Every team contribution is checked using several validation tools. If error was found, it would reduce the points acquired from the numbers of objects added. This session will share the methodology, tools and lessons learned from the competition.  

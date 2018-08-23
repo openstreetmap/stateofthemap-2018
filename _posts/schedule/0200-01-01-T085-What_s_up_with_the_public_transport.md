@@ -17,6 +17,6 @@ tags:
   - sotmevent
   - slot16
   - 
-youtube_recording: "https://www.youtube.com/watch?v=MLTqdHx_Psw"
+youtube_recording: "MLTqdHx_Psw"
 ---
 The Public Transport schema was in use for ten years, having seen two versions of it. Could it be used for actual routing? No. How do I know? Well, when I tried, turned out there were crucial parts missing. And the OSM community protested making the schema usable. So, all in all, this is a story about making OSM data usable for worldwide subway routing for MAPS.ME: why did we even start and how we ensured the relations are not broken. And, hopefully, a story about tidying up all the public transport routes for all the modes on the planet.

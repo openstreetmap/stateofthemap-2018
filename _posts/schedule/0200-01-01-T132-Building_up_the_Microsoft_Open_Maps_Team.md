@@ -17,7 +17,7 @@ tags:
   - sotmevent
   - slot11
   - 
-youtube_recording: "https://www.youtube.com/watch?v=pvkwYIuXFjA"
+youtube_recording: "pvkwYIuXFjA"
 
 ---
 Microsoft has slowly been building up it&#39;s capabilities for contributing to OpenStreetMap through it&#39;s Open Maps team
