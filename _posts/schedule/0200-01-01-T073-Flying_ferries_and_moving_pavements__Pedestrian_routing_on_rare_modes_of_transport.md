@@ -16,6 +16,7 @@ recording: true
 tags:
   - sotmevent
   - slot25
-  - 
+  -
+youtube_recording: "Bp0Vvnnsr70" 
 ---
 Some modes of transportations are only present in cities with big geographical obstacles like rivers, valleys, hills and cliffs: funiculars, moving bridges, cable cars, elevators. Routing engines tend to ignore or misunderstand these. I will  discuss possible routing algorithms, and how we can adapt existing methods to use them.
