@@ -18,7 +18,6 @@ tags:
   - slot11
   - 
 youtube_recording: "pvkwYIuXFjA"
-
 ---
 Microsoft has slowly been building up it&#39;s capabilities for contributing to OpenStreetMap through it&#39;s Open Maps team
 (https://github.com/Microsoft/Open-Maps). The idea for the Open Maps team is to work alongside other paid mapping teams and the larger OSM community to help close gaps in data for areas important to Microsoft. Curating content and contributing to a database that Microsoft does not own outright is a new concept.  Our team has been able to ride wave of an increasingly Open Source friendly environment at Microsoft to make this happen.

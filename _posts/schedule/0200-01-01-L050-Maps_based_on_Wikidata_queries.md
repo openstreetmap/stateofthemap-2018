@@ -24,7 +24,6 @@ tags:
   - lightning_talks_block_4
   - lightning_talk
 youtube_recording: "nwTstz6F5Qo"
+slides: "https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/State_of_the_Map_2018"
 ---
 One way of exploring the information in Wikidata is through maps. This lightning talk will provide a series of example maps generated through SPARQL queries to the Wikidata query service. The aim is to stimulate discussion about the potential for linking geo data with structured data from other domains through Wikidata.
-
-* [Slides](https://www.wikidata.org/wiki/Wikidata:WikiProject_Wikidata_for_research/State_of_the_Map_2018)
