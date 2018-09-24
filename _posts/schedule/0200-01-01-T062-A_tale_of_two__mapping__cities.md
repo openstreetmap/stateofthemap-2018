@@ -18,6 +18,7 @@ tags:
   - slot28
   - 
 youtube_recording: "6jXuqog7wBs"
+slides: "/slides/T062-A_tale_of_two__mapping__cities.pdf"
 ---
 Looking back only a few years, it is amazing to witness the astonishing expansion of the global »geo-community«. Nowhere else has there been such an abundance of open source learning and teaching resources which have lowered the entry-barrier to the world of technology. The global Maptime movement has certainly played a fundamental role in this regard, with its contagious spirit of inclusion, a special dedication to beginners&#39; involvement, and of course: rainbows.
 However, building lasting communities is far from a trivial task. While the spreading of Maptime chapters across the world is a testament to the value of openness and inclusiveness in creating educational curricula, organisers face regular challenges that greatly vary across geographies. 

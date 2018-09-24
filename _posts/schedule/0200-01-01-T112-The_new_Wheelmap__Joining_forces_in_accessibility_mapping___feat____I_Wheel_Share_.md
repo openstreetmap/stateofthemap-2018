@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot35
   - 
+slides: "/slides/T112-The_new_Wheelmap__Joining_forces_in_accessibility_mapping___feat____I_Wheel_Share_.pdf"
 ---
 In 2010, Wheelmap was launched as a mapping interface of the OSM celebrating the introduction of the “wheelchair tag”. Over 850,000 coloured ratings have appeared in Wheelmap since. Recently, Wheelmap has undergone some important changes: The development of a new backend called Accessibility.Cloud provides an exchange format for sharing data from a variety of sources – because other NGOs and initiatives have done similar work and started to collect accessibility data using their own applications. An example is the French mapping community “I wheel share”. 
 Svenja, the community manager from Wheelmap.org and Florian from iwheelshare.com will give you a little tour, from the backend of Accessibility.Cloud to the frontend of the new Wheelmap where the enhancements become visible, along with its well-proven, adapted and new functionalities. We want to show you how all of us OSM-, iwheelshare-, and Wheelmappers can increase the impact of accessibility mapping together.

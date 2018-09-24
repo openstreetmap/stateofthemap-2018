@@ -24,5 +24,6 @@ tags:
   - lightning_talks_block_2
   - lightning_talk
 youtube_recording: "fZK-t402g8E"
+slides: "/slides/L028-The_State_of_the_iD_Editor.pdf"
 ---
 iD is an active open source project with a thriving developer community.  We are steadily adding new features and making improvements that help both new and experienced mappers contribute to OpenStreetMap.  This talk will summarize some of the progress that we’ve made in the past year.

@@ -17,5 +17,6 @@ tags:
   - sotmevent
   - slot13
   - 
+slides: "/slides/T087-Corporate_Cartography__How_the_sausage_gets_made.pdf"
 ---
 We use styles from companies regularly, but how they are developed is different from open styles like OpenStreetMap Carto. In this talk, Paul takes you inside the corporate style development process, it&#39;s different priorities, and how you end up with the crazy styles we get sometimes.

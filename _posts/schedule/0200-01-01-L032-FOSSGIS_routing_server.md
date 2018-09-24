@@ -2,8 +2,8 @@
 layout: event
 title: "FOSSGIS routing server"
 ref: "L032"
-name: "michael spreng"
-authors: "michael spreng"
+name: "Michael Spreng"
+authors: "Michael Spreng"
 affiliations: ""
 organization: ""
 category: lightning
@@ -24,5 +24,6 @@ tags:
   - lightning_talks_block_4
   - lightning_talk
 youtube_recording: "YW-MfiwIiBU"
+slides: "/slides/L032-FOSSGIS_routing_server.pdf"
 ---
 Previously, all world wide, OSM based routing services were backed by commercial entities. The FOSSGIS routing server started in late 2017 and aims to provide a community driven routing service based on OSM data. This lightning talk should promote the service and give a short explanation how it is set up.

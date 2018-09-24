@@ -1,4 +1,4 @@
----
+t---
 layout: event
 title: "Can we validate every change on OSM?"
 ref: "T079"
@@ -18,6 +18,7 @@ tags:
   - slot3
   - 
 youtube_recording: "QK1M7QzaxhA"
+slides: "/slides/T079-Can_we_validate_every_change_on_OSM_.pdf"
 ---
 OpenStreetMap receives 30,000 changesets everyday. Bad edits vary from novice mapping mistakes to intentional vandalism. Through Mapbox, hundreds of millions of users now view the map. Data quality has become crucial; we cannot afford to have our products affected by bad changes. We will present how we have built bulletproof protection against the daily vandalism we see.
 

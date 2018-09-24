@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot38
   - 
+slides: "/slides/T119-Attracting_students_with_Google_Summer_of_Code.pdf"
 ---
 OpenStreetMap has been participating with great success in the
 Google Summer of Code program for several years. With over xxx

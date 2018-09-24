@@ -20,6 +20,7 @@ tags:
   - slot11
   - workshop
   - workshop
+slides: "/slides/W016-The_LWG_Presents__GDPR_Implementation_for_OSM.pdf"
 ---
 The EU General Data Protection Regulation (GDPR) is an important data privacy law that comes into effect on May 25, 2018. 
 

@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot17
   - 
+slides: "/slides/T030-Network_for_transport_open_data.pdf"
 youtube_recording: "p1Rlvi2dZiE"
 ---
 As part of an open governance and data-driven cities model, we present an inter-institutional strategy with local communities, for the participatory generation of standardized data on public transport in different cities of the world that can be compiled in an open global platform and facilitate urban research, regulation and planning, between countries and continents.

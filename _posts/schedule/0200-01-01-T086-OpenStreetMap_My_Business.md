@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot18
   - 
+slides: "/slides/T086-OpenStreetMap_My_Business.pdf"
 ---
 Being present on a maps is important for companies. &#34;OpenStreetMap My Business&#34; (OSMyBiz) is a new web application where businesses such as hotels, restaurants or shops, can be entered and managed in OpenStreetMap. OSMyBiz is a domain specific editor designed to be easy to use, especially also by non-mappers.
 

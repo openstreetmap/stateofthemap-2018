@@ -18,5 +18,6 @@ tags:
   - slot9
   - 
 youtube_recording: "gP4HP6b-Zys"
+slides: "/slides/T094-Addressing_addresses.pdf"
 ---
 We are all used to describe locations with words. The concept is universally known as addresses. You put them on postcards and letters and expect that you find the right places on the map when you put them in the search box on openstreetmap.org. For a computer this can be surprisingly challenging because addresses can take many shapes and forms in different regions of the world. This talk looks into different address formats in the real world, the different ways addresses can be tagged in OSM and how they can be efficiently processed.

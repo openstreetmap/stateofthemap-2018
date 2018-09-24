@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot43
   - 
+slides: "/slides/T113-Indonesia_Road_Mapping__Challenges_and_Opportunities.pdf"
 ---
 Indonesia is one of the country which has low availability and access to spatial data, that caused people in Indonesia with low awareness of the importance of it. Spatial data that provided by The National Mapping Agency in Indonesia is not up-to-date and detailed. Many private sectors have detailed and up-to-date geographic data but it’s not open and required high cost to obtain. Therefore, the acceleration efforts are needed to deal with this issues.
 Starting in January 2018, HOT ID and Facebook working to map the roads in Indonesia with modified OSM tools and machine learning algorithms for road tracing that developed by Facebook Team. Once the mapping is completed, the data will add powerful impact to the community and stakeholders that can be used in emergency response through better navigation system and also helps government to develop regional planning. The project can be a valuable lesson for other countries and Indonesia itself which have many challenges and opportunities.

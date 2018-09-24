@@ -23,5 +23,6 @@ tags:
   - lightning_talk
   - lightning_talks_block_1
   - lightning_talk
+slides: "/slides/L039-Crowd2Map_Tanzania_-_helping_protect_girls_from_FGM_and_empower_rural_communities.pdf"
 ---
 Crowd2Map Tanzania is a crowdsourced mapping project putting rural Tanzania on the map. Since 2015, we have been adding schools, hospitals, roads, buildings and villages to OpenStreetMap with the help of over 5000 volunteers worldwide and 200 on the ground in Tanzania.  We have so far added over 2 million buildings and mapped over 70,000 sq kilometres, starting first with the areas where girls are at risk of Female Genital Mutilation, so that activists on the ground can better find and protect them. We have trained community mappers in 19 areas of Tanzania, and set up Youthmappers Chapters at the Institute of Rural Development and Planning in Mwanza and Dodoma.  We also organised the first State of the Map Tanzania, in December 2017 and a 3 day training session as part of Open Data Day.  

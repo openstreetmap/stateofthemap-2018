@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot40
   - 
+slides: "/slides/T037-Community_Mapping_for_Refugees_in_Uganda.pdf"
 ---
 Currently Uganda is hosting over 1 million refugees, of which over 900,000 are from South Sudan. Refugees are fleeing horrific human rights violations including sexual violence, torture and even death in South Sudan. Uganda has one of the most generous and progressive approaches to hosting refugees in the region, if not the world. Refugees are given relative freedom of movement, equal access to primary education, healthcare and other basic social services, and the right to work and own a business.
 

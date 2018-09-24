@@ -20,6 +20,7 @@ tags:
   - slot7
   - workshop
   - workshop
+slides: "/slides/W033-Field_Mapping_tools___technologies.pdf"
 ---
 If you want to get started on mapping things, be it data on schools, railway crossings, street names, or something entirely different, it&#39;s good to think about the tools you intend to use first. Especially if more people get involved! In this workshop, we&#39;ll demonstrate several topics related to data collection, and get some hands-on experience on:
 

@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot40
   - 
+slides: "/slides/T071-Routing_on_rails_with_OpenStreetMap.pdf"
 ---
 People have been computing routes on roads using OSM for about ten years now, but open source software for finding routes on railway tracks is still in the early stages of development. Existing solutions are either very hacky or proprietary. However, there&#39;s clearly demand for that: Itineraries want to be illustrated, train movements tracked on maps. Hauliers want to estimate travel times of freight trains, and so on.
 

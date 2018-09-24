@@ -18,6 +18,7 @@ tags:
   - slot13
   - 
 youtube_recording: "Kx0KuvkbvfQ"
+slides: "/slides/T121-Lies__damned_lies__and_OSM_statistics.pdf"
 ---
 When people who are unfamiliar with OpenStreetMap try to evaluate OpenStreetMap data statistically, many things can go wrong. There are just too many things you can count - how many of what are there, how richly attributed,
 how many contributors have added something, during what time, and what does that say about the data quality of OpenStreetMap and the interests of its contributors?

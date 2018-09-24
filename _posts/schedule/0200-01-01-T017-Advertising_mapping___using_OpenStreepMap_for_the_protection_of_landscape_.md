@@ -18,6 +18,7 @@ tags:
   - slot6
   - 
 youtube_recording: "MJM680jJA7U"
+slides: "/slides/T017-Advertising_mapping___using_OpenStreepMap_for_the_protection_of_landscape_.pdf"
 ---
 Based on what I did recently in the use of OSM to map advertising devices (with the idea of protecting landscapes from the invasion of advertising) :
  - See 
