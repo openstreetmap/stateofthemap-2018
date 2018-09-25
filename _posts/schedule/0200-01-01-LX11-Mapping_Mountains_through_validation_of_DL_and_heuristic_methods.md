@@ -1,9 +1,9 @@
 ---
 layout: event
-title: "Sige Edition powered by Mapillary"
-ref: "LX14"
-name: "unknown"
-authors: "unknown"
+title: "Mapping Mountains through validation of DL and heuristic methods"
+ref: "LX11"
+name: ""
+authors: ""
 affiliations: ""
 organization: ""
 category: lightning
@@ -13,13 +13,14 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_9"
 room: "S.1.5"
-sortroom: "3"
+sortroom: "4"
 length: "5 minutes"
-time: "Monday 16:00"
+time: "Monday 15:30"
 recording: false
 tags:
   - sotmevent
-  - slot16
+  - slot42
+  - lightning_talk
+  - lightning_talks_block_9
   - lightning_talk
 ---
-This lightning talk was proposed during the conference weekend.

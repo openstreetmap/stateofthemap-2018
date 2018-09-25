@@ -1,9 +1,9 @@
 ---
 layout: event
-title: "How engage community and volunteers in an open mapping project"
-ref: "LX08"
-name: "unknown"
-authors: "unknown"
+title: "Microgrants at OSMF"
+ref: "LX10"
+name: ""
+authors: ""
 affiliations: ""
 organization: ""
 category: lightning
@@ -19,7 +19,8 @@ time: "Monday 09:30"
 recording: false
 tags:
   - sotmevent
-  - slot16
+  - slot31
+  - lightning_talk
+  - lightning_talks_block_8
   - lightning_talk
 ---
-This lightning talk was proposed during the conference weekend.

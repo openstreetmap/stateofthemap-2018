@@ -1,9 +1,9 @@
 ---
 layout: event
-title: "Map Lesotho"
-ref: "LX07"
-name: "unknown"
-authors: "unknown"
+title: "How engage community and volunteers in an open mapping project"
+ref: "LX08"
+name: ""
+authors: ""
 affiliations: ""
 organization: ""
 category: lightning
@@ -13,13 +13,14 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_8"
 room: "S.1.5"
-sortroom: "3"
+sortroom: "4"
 length: "5 minutes"
 time: "Monday 09:30"
 recording: false
 tags:
   - sotmevent
-  - slot16
+  - slot31
+  - lightning_talk
+  - lightning_talks_block_8
   - lightning_talk
 ---
-This lightning talk was proposed during the conference weekend.

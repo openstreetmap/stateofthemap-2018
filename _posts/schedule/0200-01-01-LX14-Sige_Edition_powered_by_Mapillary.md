@@ -1,25 +1,26 @@
 ---
 layout: event
-title: "Map Kibera, Kenya"
-ref: "LX09"
-name: "unknown"
-authors: "unknown"
+title: "Sige Edition powered by Mapillary"
+ref: "LX14"
+name: ""
+authors: ""
 affiliations: ""
 organization: ""
 category: lightning
 day: 
-lightning_talks_block: 8
+lightning_talks_block: 9
 extra_tags:
   - "lightning_talk"
-  - "lightning_talks_block_8"
+  - "lightning_talks_block_9"
 room: "S.1.5"
-sortroom: "1"
+sortroom: "4"
 length: "5 minutes"
 time: "Monday 15:30"
 recording: false
 tags:
   - sotmevent
-  - slot16
+  - slot42
+  - lightning_talk
+  - lightning_talks_block_9
   - lightning_talk
 ---
-This lightning talk was proposed during the conference weekend.

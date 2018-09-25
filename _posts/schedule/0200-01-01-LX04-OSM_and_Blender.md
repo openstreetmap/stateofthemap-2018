@@ -13,13 +13,14 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_6"
 room: "S.0.2"
-sortroom: "4"
+sortroom: "2"
 length: "5 minutes"
 time: "Sunday 16:30"
 recording: true
 tags:
   - sotmevent
-  - slot16
+  - slot29
+  - lightning_talk
+  - lightning_talks_block_6
   - lightning_talk
 ---
-This lightning talk was proposed during the conference weekend.

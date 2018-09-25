@@ -2,8 +2,8 @@
 layout: event
 title: "Blockchain and OSM"
 ref: "LX03"
-name: "unknown"
-authors: "unknown"
+name: ""
+authors: ""
 affiliations: ""
 organization: ""
 category: lightning
@@ -13,15 +13,14 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_5"
 room: "S.0.2"
-sortroom: "4"
+sortroom: "2"
 length: "5 minutes"
 time: "Sunday 16:00"
 recording: true
 tags:
   - sotmevent
-  - slot16
+  - slot28
+  - lightning_talk
+  - lightning_talks_block_5
   - lightning_talk
 ---
-A decentralized market place for mapping data.
-
-This lightning talk was proposed during the conference weekend.

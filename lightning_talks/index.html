@@ -18,14 +18,11 @@ color: fill-midnight
   {% for lt_block in blocks %}
     {% assign this_block = lt_block.items | first %}
     {% assign block_ref = this_block.lightning_talks_block | plus: 0 %}
-    {% if block_ref > 7 or block_ref == 0 %}
+    {% if block_ref > 10 or block_ref == 0 %}
       {% continue %}
     {% endif %}
         <li><a href="/lightning_talks/lightning_talks_{{lt_block.name}}/">{{this_block.time}} in {{this_block.room}}</a></li>
   {% endfor %}
-        <li>Monday 09:30 in S.1.3</li>
-        <li>Monday 15:30 in S.1.3</li>
-        <li>Monday 16:00 in S.1.3</li>
       </ul>
       <p>Five minutes are too short for you? We have a spare room available as <a href="/bookable_space/">bookable space</a> for self-organised sessions. Please come to the welcome desk for reservation and to get your session announced.</p>
       <a href='{{site.baseurl}}/program' class='button pad2x stroke icon prev space-top4 round-big'>Back to program</a>

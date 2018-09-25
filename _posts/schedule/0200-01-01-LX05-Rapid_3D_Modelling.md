@@ -1,9 +1,9 @@
 ---
 layout: event
-title: "Microgrants at OSMF"
-ref: "LX10"
-name: "unknown"
-authors: "unknown"
+title: "Rapid 3D Modelling"
+ref: "LX05"
+name: "kobayashi"
+authors: "kobayashi"
 affiliations: ""
 organization: ""
 category: lightning
@@ -13,13 +13,14 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_8"
 room: "S.1.5"
-sortroom: "2"
+sortroom: "4"
 length: "5 minutes"
-time: "Monday 15:30"
+time: "Monday 09:30"
 recording: false
 tags:
   - sotmevent
-  - slot16
+  - slot31
+  - lightning_talk
+  - lightning_talks_block_8
   - lightning_talk
 ---
-This lightning talk was proposed during the conference weekend.

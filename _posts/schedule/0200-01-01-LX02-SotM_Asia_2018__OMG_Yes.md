@@ -2,8 +2,8 @@
 layout: event
 title: "SotM Asia 2018, OMG Yes"
 ref: "LX02"
-name: "unknown"
-authors: "unknown"
+name: ""
+authors: ""
 affiliations: ""
 organization: ""
 category: lightning
@@ -13,14 +13,15 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_3"
 room: "De Donato"
-sortroom: "4"
+sortroom: "1"
 length: "5 minutes"
 time: "Sunday 10:30"
 recording: true
 tags:
   - sotmevent
-  - slot16
+  - slot18
+  - lightning_talk
+  - lightning_talks_block_3
   - lightning_talk
 youtube_recording: "lhEtLKKRAVk"
 ---
-This lightning talk was proposed during the conference weekend.
