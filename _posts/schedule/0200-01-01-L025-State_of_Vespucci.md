@@ -23,5 +23,6 @@ tags:
   - lightning_talk
   - lightning_talks_block_2
   - lightning_talk
+youtube_recording: "0bYtb5jYGTY"
 ---
 Vespucci is the original OSM editor for Android, first published in 2009 and continuously developed since then. The talk will give a quick overview of its current capabilities and support workflows, and an outlook on future development.

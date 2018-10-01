@@ -23,6 +23,7 @@ tags:
   - lightning_talk
   - lightning_talks_block_4
   - lightning_talk
+youtube_recording: "ywZhQY-6cdE"
 ---
 Realtime OSM is a server that serves custom OSM extracts updated in near realtime. Its users can add jobs via an easy to use interface. You can host the server  yourself but it will also be hosted on the servers of HeiGIT, Heidelberg. This talk will detail the approach and obstacles encountered while developing the server and is an opportunity to chat with me about your use case or requirements.
 https://github.com/GIScience/OSM-realtime-update/

@@ -21,5 +21,6 @@ tags:
   - sotmevent
   - slot16
   - lightning_talk
+youtube_recording: "TwUDTJ-eQFI"
 ---
 This lightning talk was proposed during the conference weekend.

@@ -23,5 +23,6 @@ tags:
   - lightning_talk
   - lightning_talks_block_2
   - lightning_talk
+youtube_recording: "fZK-t402g8E"
 ---
 iD is an active open source project with a thriving developer community.  We are steadily adding new features and making improvements that help both new and experienced mappers contribute to OpenStreetMap.  This talk will summarize some of the progress that we’ve made in the past year.

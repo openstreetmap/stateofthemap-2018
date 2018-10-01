@@ -23,6 +23,7 @@ tags:
   - lightning_talk
   - lightning_talks_block_4
   - lightning_talk
+youtube_recording: "yLHTdfrY3Q8"
 ---
 This short presentation gives a short overview of the collaborations and cross-activities between the OSM and Wikimedia communities.
 

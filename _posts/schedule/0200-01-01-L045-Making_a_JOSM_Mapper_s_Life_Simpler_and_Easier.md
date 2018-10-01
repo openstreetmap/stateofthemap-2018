@@ -23,5 +23,6 @@ tags:
   - lightning_talk
   - lightning_talks_block_2
   - lightning_talk
+youtube_recording: "YLaOrCeKTHo"
 ---
 In this talk, the Telenav Mapping team will share some of the custom MapCSS, filters, presets and plugins we use to improve the appearance and functionality of JOSM to make our editing more effective and efficient. Even if you consider yourself a JOSM power user, you may learn a thing or two — and we hope to learn some tricks from you as well.

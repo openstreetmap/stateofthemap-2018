@@ -23,6 +23,7 @@ tags:
   - lightning_talk
   - lightning_talks_block_3
   - lightning_talk
+youtube_recording: "epD7ItzcZ4U"
 ---
 Not sure yet. Could talk briefly about the following topics (1, 2 or a combination of the 3). I would decide closer to the date of SotM, taking in consideration more experience in coming months and what is considered interesting by organizers.
 

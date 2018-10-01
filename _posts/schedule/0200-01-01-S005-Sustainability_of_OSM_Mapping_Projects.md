@@ -20,6 +20,7 @@ tags:
   - slot22
   - panel
   - panel
+youtube_recording: "mkgUUUrnxKw"
 ---
 Many local groups have arisen to work specifically on mapping in communities in resource-constrained locations around the world. Many global organizations have also undertaken projects in the international development context that seek to collect map data while at the same time supporting the growth of the local OSM community. Improving OSM maps for humanitarian, development, and democracy purposes has become an imperative. However, sustaining these efforts has been difficult to achieve. 
 
