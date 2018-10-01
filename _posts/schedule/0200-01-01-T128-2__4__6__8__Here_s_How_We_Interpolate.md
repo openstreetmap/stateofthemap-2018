@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot10
   - 
+youtube_recording: "zefj5hn08Kw"
 ---
 The work done by our community to build the OpenStreetMap dataset is incredible but like any data project, it will never “be done”. Our world is constantly changing and we need tools that help us make the most of what we have. Address interpolation is one of those tools.
 

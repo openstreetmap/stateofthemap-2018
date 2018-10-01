@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot15
   - 
+youtube_recording: "KlZ1ijWxKkw"
 ---
 Over 1.2 billion people around the world lack access to electricity, most of them in rural areas of Sub Saharan Africa and Asia. An accurate map of infrastructure is critical to expand access to these people. Yet, the electricity network is often under-mapped and the schematics that do exist are not publicly available, or lack geospatial accuracy.
 

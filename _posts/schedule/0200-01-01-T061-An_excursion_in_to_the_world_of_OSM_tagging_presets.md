@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot7
   - 
+youtube_recording: "FbeAlf80lC8"
 ---
 Tagging presets have a large influence on how and in how much detail OSM contributors map. OpenStreetMap affords itself the luxury of multiple completely separate, independently developed preset systems.
 

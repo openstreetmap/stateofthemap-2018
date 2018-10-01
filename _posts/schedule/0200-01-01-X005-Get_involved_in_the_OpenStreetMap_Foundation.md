@@ -12,6 +12,7 @@ time: "Saturday 17:40"
 recording: true
 tags:
   - sotmevent
+youtube_recording: "DnusIn7nOJs"
 ---
 Do you want to help the OSM Foundation in a more active way than donating money, mapping or software development but you do not know which working group to join? This session gives you what you are looking for. After a short introduction talk by Gregory Marler, the session changes into a fair-like open space. One or two members of each working group are waiting at defined locations to answer your questions. It is the opportunity to get in touch with the working groups and their work. Don't miss it
 

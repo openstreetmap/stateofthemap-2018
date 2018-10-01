@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot6
   - 
+youtube_recording: "MJM680jJA7U"
 ---
 Based on what I did recently in the use of OSM to map advertising devices (with the idea of protecting landscapes from the invasion of advertising) :
  - See 
