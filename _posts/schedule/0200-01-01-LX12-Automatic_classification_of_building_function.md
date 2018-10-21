@@ -2,8 +2,8 @@
 layout: event
 title: "Automatic classification of building function"
 ref: "LX12"
-name: ""
-authors: ""
+name: "Marco Minghini, Cidalia Fonte"
+authors: "Marco Minghini, Cidalia Fonte"
 affiliations: ""
 organization: ""
 category: lightning

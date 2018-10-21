@@ -2,8 +2,8 @@
 layout: event
 title: "Complete the map, turn it off"
 ref: "LX15"
-name: ""
-authors: ""
+name: "Steve Coast"
+authors: "Steve Coast"
 affiliations: ""
 organization: ""
 category: lightning

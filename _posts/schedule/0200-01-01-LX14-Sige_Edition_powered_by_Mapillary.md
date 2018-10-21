@@ -2,8 +2,8 @@
 layout: event
 title: "Sige Edition powered by Mapillary"
 ref: "LX14"
-name: ""
-authors: ""
+name: "Alex D. Sige"
+authors: "Alex D. Sige"
 affiliations: ""
 organization: ""
 category: lightning
