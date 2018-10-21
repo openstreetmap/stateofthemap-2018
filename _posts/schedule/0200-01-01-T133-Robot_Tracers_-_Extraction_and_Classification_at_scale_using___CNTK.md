@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot36
   - 
+youtube_recording: "1byoe8jbuTU"
 ---
 During State of the Map US Microsoft outlined it&#39;s target to leverage computer vision to create a building footprint indistinguishable from a human traced edit. We believe we have hit that milestone for at least 75% of the cases for the United States. 
 

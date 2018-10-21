@@ -23,6 +23,7 @@ tags:
   - lightning_talk
   - lightning_talks_block_6
   - lightning_talk
+youtube_recording: "k1ndTVurVIY"
 ---
 Hello SOTM Team! 
 My idea is to quickly dive into a project conducted with the European Commission on mapping the EU budget spent worldwide. Three parts: data collection troubles with public institutions, mapping result, policy impact of the mapping study. 

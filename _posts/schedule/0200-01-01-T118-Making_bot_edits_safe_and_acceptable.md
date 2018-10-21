@@ -18,5 +18,6 @@ tags:
   - slot35
   - 
 slides: "/slides/T118-Making_bot_edits_safe_and_acceptable.pdf"
+youtube_recording: "fpbx3dfurWk"
 ---
 This talk is an attempt to find a compromise between editors who want to use bots, and those who oppose it in a safe, friendly atmosphere. We will look at the problems bots can solve, as well as the problems bots can cause.

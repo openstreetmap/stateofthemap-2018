@@ -24,5 +24,6 @@ tags:
   - lightning_talks_block_7
   - lightning_talk
 slides: "/slides/L014-Mapping_A_Paradise__Batanes__the_Home_of_the_Winds.pdf"
+youtube_recording: "5UPNqWfRQCI"
 ---
 In this lightning talk, I will share my experience in mapping parts of Batanes Islands (I am yet to go to Batanes on Feb. 11)

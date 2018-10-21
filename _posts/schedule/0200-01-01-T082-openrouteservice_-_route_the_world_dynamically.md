@@ -17,5 +17,6 @@ tags:
   - sotmevent
   - slot39
   - 
+youtube_recording: "flJx1rFvccE"
 ---
 Present the growing stack of openrouteservice software to the OSM audience. By presenting the unique features of ORS (entirely dynamic routing of HGV, open data response for isochrones, dynamic country border restrictions etc.), we hope to encourage broader use and engagement of our tools within the open-source, scientific and commercial community.

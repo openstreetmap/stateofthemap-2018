@@ -23,4 +23,5 @@ tags:
   - lightning_talk
   - lightning_talks_block_6
   - lightning_talk
+youtube_recording: "x1DuAZn0X00"
 ---

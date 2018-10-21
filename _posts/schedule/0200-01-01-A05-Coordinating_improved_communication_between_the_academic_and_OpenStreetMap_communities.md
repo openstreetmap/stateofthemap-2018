@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot16
   - academic_track
+youtube_recording: "v7Oc1kYVqgA"
 ---
 For well over a decade now there has been substantial interest on OpenStreetMap (OSM) from the academic research community. The incredible success of OSM is an intriguing source of potential research for academics. Based on our collective observations as academics, OSM contributors, and users of OSM data, there is much room for improvement in the interactions between the academic research and OSM communities. There are two sides to this story. One one side the OSM community often learns only very late (or sometimes never) about research results generated from academic research on OSM itself. On the other side the academic research community has often little information, or understanding, on what the most important research and scientific concerns for the OSM community actually are. Subsequently, a large amount of academic research is carried out on OSM in complete isolation from the OSM community itself. How can we work towards creating better connections and collaborations between the scientific/academic research communities and the OSM community?
 

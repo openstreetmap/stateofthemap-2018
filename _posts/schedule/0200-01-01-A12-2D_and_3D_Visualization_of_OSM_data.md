@@ -17,6 +17,8 @@ tags:
   - sotmevent
   - slot24
   - academic_track
+slides: "/slides/A12-2D_and_3D_Visualization_of_OSM_data.pdf"
+youtube_recording: "TVIG68ip4ww"
 ---
 The OpenStreetMap (OSM) is part of the big data of Web 2.0, having velocity, veracity and volume of big data characteristics. Visualizing big data is one of the challenges regarding the big data phenomenon (Li et al., 2016). The research and the application performed aims to tackle this challenge using open source tools by creating a plugin application programming interface (API) for visualizing the OSM data in two and three dimensions using ESA-NASA Web WorldWind virtual globe, improving the painting performance, fetching a subset of the data for a specific region and visualizing it instantly, creating heatmaps enabling visual analysis. The plugin API developed is available on https://github.com/kilsedar/3dosm and published with MIT license. The project has been developed during Google Summer of Code (GSoC) 2017.
 

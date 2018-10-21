@@ -18,6 +18,7 @@ tags:
   - slot33
   - 
 slides: "/slides/T088-Form___Map_based_Mobile_OSM_Tool_for_Field_Survey_and_Validation.pdf"
+youtube_recording: "VZO7Pccgkc8"
 ---
 Traditional field survey and validation based on paper map &amp; form. It takes much efforts to collect and digitize it, also difficult to include the meta-data such as photos, audio/video files, geo-tag location, and so on. Current ODK (Open Data Kit) with OMK (Open Map Kit) is popular and leveraged quite often, however, it needs some additional IT efforts for deployment before starting the field survey.
 

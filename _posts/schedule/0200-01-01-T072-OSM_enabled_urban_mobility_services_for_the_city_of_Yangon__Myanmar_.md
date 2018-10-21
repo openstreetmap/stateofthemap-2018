@@ -18,6 +18,7 @@ tags:
   - slot39
   - 
 slides: "/slides/T072-OSM_enabled_urban_mobility_services_for_the_city_of_Yangon__Myanmar_.pdf"
+youtube_recording: "r48nNcf4V3k"
 ---
 In recent years, many projects involving OSM and mobility were developed in different countries either for commercial or humanitarian purposes.
 In the city of Yangon (Myanmar), road and public transport networks have dramatically evolved over the last decade and there was no updated map available. 5T and Ithaca have promoted the use of OSM as reference for Urban Planning activities in an Italy-Myanmar cooperation project, involving Yangon Municipality and focused on urban mobility.

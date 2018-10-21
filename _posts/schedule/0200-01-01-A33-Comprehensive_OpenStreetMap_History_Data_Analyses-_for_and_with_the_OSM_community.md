@@ -17,6 +17,8 @@ tags:
   - sotmevent
   - slot22
   - academic_track
+slides: "/slides/A33-Comprehensive_OpenStreetMap_History_Data_Analyses-_for_and_with_the_OSM_community.pdf"
+youtube_recording: "IjAeH_qtc2s"
 ---
 Increasing use of OpenStreetMap (OSM) data in various applications and use cases lead to a growing number of research studies in which OSM data, its contributors and usage, and the quality of OSM data are analyzed. These studies include extrinsic and intrinsic data analyses, and provide interesting results for and about the community and data users.
 Such studies were mostly limited to analyzing either small samples of the OSM database or to simple types of analyses due to the capabilities of existing services and software operating on OSM’s full history data, which includes all data and every change made on a global scale. OSM data and contributor monitoring over longer timeframes and covering larger areas could however provide more comprehensive insights about our community and the data we are producing, also including spatial variations and evolution over time.

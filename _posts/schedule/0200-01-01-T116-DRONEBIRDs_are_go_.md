@@ -18,5 +18,6 @@ tags:
   - slot42
   - 
 slides: "/slides/T116-DRONEBIRDs_are_go_.pdf"
+youtube_recording: "7SFqQHtLVf4"
 ---
 In 2011, Huge earthquake and  tsunami attacked in Japan. Then, we learned about many things based on Crisis Mapping. Especially, aerial photo/satellite imagery is very important after the disaster. But recently, this process depend on weather conditions and data providers decision. In my opinion, “DRONE” technology is growing now, if everyone have own drone, we can get more fresh and high resolution imagery. Now we are making Crisis Mapping drone team, that’s “DRONEBIRD”. I will share about state of the DRONEBIRD.

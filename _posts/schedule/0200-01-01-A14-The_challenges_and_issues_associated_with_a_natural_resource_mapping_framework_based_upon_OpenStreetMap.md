@@ -17,6 +17,8 @@ tags:
   - sotmevent
   - slot29
   - academic_track
+slides: "/slides/A14-The_challenges_and_issues_associated_with_a_natural_resource_mapping_framework_based_upon_OpenStreetMap.pdf"
+youtube_recording: "T_z8uUH_iI8"
 ---
 The resource mapping framework (RADIMA) is a tool for sub-national, county-level climate adaptation planning targeting the most vulnerable communities in developing countries, whose livelihoods may be reliant upon the effective management of natural resources. It allows the integration of community adaptive practice and climate change information into planning decisions at the local level by enabling natural resource information to be captured by local communities using a more detailed attribution model than that available in OpenStreetMap.
 The granularity of data offered by the RADIMA application is also of value to the broader academic community. In particular, for research that focuses on adaptation and resilience of communities and the effects of climate change upon the natural resources from which these communities depend. 

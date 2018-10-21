@@ -24,6 +24,7 @@ tags:
   - lightning_talks_block_5
   - lightning_talk
 slides: "/slides/L029-Where_is_the_community_.pdf"
+youtube_recording: "mH71Zj-WRZo"
 ---
 OpenStreetMap is a global community that is comprised of multiple smaller local communities that make OpenStreetMap what it is. One of the challenges that everyone who is making efforts to interact and connect with the communities  are facing is that each of the local communities has its own communication channels and caters to a unique audience. How do we make sure to reach out to everyone in the community?
 

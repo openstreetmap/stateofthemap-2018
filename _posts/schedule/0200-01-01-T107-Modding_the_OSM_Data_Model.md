@@ -18,6 +18,7 @@ tags:
   - slot36
   - 
 slides: "/slides/T107-Modding_the_OSM_Data_Model.pdf"
+youtube_recording: "rbxabz22ni4"
 ---
 The OpenStreetMap data model has served us well for the
 last ten years, but it has its quirky corners and some larger problems.

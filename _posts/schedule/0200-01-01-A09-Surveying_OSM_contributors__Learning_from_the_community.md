@@ -17,6 +17,8 @@ tags:
   - sotmevent
   - slot17
   - academic_track
+slides: "/slides/A09-Surveying_OSM_contributors__Learning_from_the_community.pdf"
+youtube_recording: "pk7sWpPHI1w"
 ---
 In recent years, the academic research community have conducted various types of research into trying to understand the motivations, profiles and personalities of contributors to OpenStreetMap (OSM). This research is often completely quantitative - usually by considering ONLY the edits and interactions with the OSM database itself. In August 2017, after some discussion with the OSM community via mailing lists and blog posts, an online demographic survey [1] of OSM contributors was launched with the aim of understanding the impacts of user demographics on the data itself by linking these indicators to their editing behaviours. Over a four week period the survey garnered 326 responses which, given the advertising and dissemination strategies, constituted a low response rate.
 

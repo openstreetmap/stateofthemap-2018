@@ -18,6 +18,7 @@ tags:
   - slot43
   - 
 slides: "/slides/T106-3D_Beyond_Buildings.pdf"
+youtube_recording: "mGw5cLK07XQ"
 ---
 When it comes to 3d maps, buildings are usually a major focus. This makes it easy to miss the potential that other features have to offer as we create a 3d model of our world.
 

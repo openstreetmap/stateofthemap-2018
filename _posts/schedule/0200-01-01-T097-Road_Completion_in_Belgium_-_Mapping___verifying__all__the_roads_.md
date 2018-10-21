@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot31
   - 
+youtube_recording: "K0PClU5yZTQ"
 ---
 We present one of our latest mapping projects in Belgium to map *all* the roads. We present the goals of the project: a verified, quality checked and complete road network in Belgium in OSM in a sustainable way. We will bore you with some of the tech details next, like minutely checks of the latest changes and scaling to the entire planet, before moving to talk about integrating open-data into OSM in a way that potentially involves everyone in our community. Last but not least we talk about the relationship we (want to) have with all relevant authorative datasets and touch on how machine learning fits into this idea.
 

@@ -2,10 +2,10 @@
 layout: event
 title: "My message in weeklyOSM"
 ref: "LX01"
-name: ""
-authors: ""
-affiliations: ""
-organization: ""
+name: "Manfred Reiter"
+authors: "Manfred Reiter"
+affiliations: "WeeklyOSM"
+organization: "WeeklyOSM"
 category: lightning
 day: 
 lightning_talks_block: 3

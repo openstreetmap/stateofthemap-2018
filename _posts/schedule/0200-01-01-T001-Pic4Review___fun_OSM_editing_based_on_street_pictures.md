@@ -18,6 +18,7 @@ tags:
   - slot32
   - 
 slides: "/slides/T001-Pic4Review___fun_OSM_editing_based_on_street_pictures.pdf"
+youtube_recording: "kFrIC7vk3Gw"
 ---
 Thanks to projects like Mapillary or OpenStreetCam, there are now plenty of street pictures freely available online. These pictures are a good source of data to improve OpenStreetMap, because you can see as if you were surveying in person. 
 To make use of these pictures, the fun way, you can use Pic4Review. It works like humanitarian tasks manager : choose a task to work on, then you review pictures around a list of features, and then edit OpenStreetMap. You can work on various tasks : integrate open data, fix tagging errors, or add new info on existing features. When reviewing or editing, you also gain points, which make you earns badges, giving a game-dimension to the contribution.

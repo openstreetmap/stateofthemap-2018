@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot32
   - 
+youtube_recording: "7FhpkSsP9IQ"
 ---
 Microsoft has been working intensively with OpenStreetMap data over the past year developing metrics, quality gates, data validation tests and other measurements to determine when and where the data meets stringent internal release criteria. We have found that in some areas, for some services the data is very, very close to being production ready while in other areas there is a long way to go. 
 
