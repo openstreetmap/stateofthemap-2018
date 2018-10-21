@@ -23,8 +23,8 @@ tags:
   - lightning_talk
   - lightning_talks_block_3
   - lightning_talk
-youtube_recording: "vsj7KbOJPuw"
 slides: "/slides/L041-Mapping_Freetown_s_distribution_water_network_using_OSM.pdf"
+youtube_recording: "vsj7KbOJPuw"
 ---
 OSM as an offline basemap in QField for the data collection,
 Youth mappers involvement to map encroaching structures on OSM

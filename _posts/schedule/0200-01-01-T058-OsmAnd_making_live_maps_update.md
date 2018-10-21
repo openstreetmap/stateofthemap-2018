@@ -17,7 +17,7 @@ tags:
   - sotmevent
   - slot11
   - 
-youtube_recording: "w0AU3ARMeok"
 slides: "/slides/T058-OsmAnd_making_live_maps_update.pdf"
+youtube_recording: "w0AU3ARMeok"
 ---
 I would like to explain what difficulties we encountered while making OsmAnd maps updated every hour / every 5 minutes.
