@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot7
   - 
+slides: "/slides/T068-How_Deep_Learning_could_help_to_improve_OSM_Data_Quality__.pdf"
 youtube_recording: "QyWFRY0Whq8"
 ---
 How DeepLearning, and semantic segmentation, can be an efficient way to detect and spot inconsistency in OSM dataset ? 

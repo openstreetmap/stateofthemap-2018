@@ -2,10 +2,10 @@
 layout: event
 title: "My message in weeklyOSM"
 ref: "LX01"
-name: "unknown"
-authors: "unknown"
-affiliations: ""
-organization: ""
+name: "Manfred Reiter"
+authors: "Manfred Reiter"
+affiliations: "WeeklyOSM"
+organization: "WeeklyOSM"
 category: lightning
 day: 
 lightning_talks_block: 3
@@ -13,14 +13,15 @@ extra_tags:
   - "lightning_talk"
   - "lightning_talks_block_3"
 room: "De Donato"
-sortroom: "3"
+sortroom: "1"
 length: "5 minutes"
 time: "Sunday 10:30"
 recording: true
 tags:
   - sotmevent
-  - slot16
+  - slot18
+  - lightning_talk
+  - lightning_talks_block_3
   - lightning_talk
 youtube_recording: "TwUDTJ-eQFI"
 ---
-This lightning talk was proposed during the conference weekend.

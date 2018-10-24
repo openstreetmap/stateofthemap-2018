@@ -17,6 +17,8 @@ tags:
   - sotmevent
   - slot18
   - academic_track
+slides: "/slides/A25-Slum_health_mapping_as_catalyst_for_a_collaborative_agenda_for_research__practice__local_citizens_and_volunteers.pdf"
+youtube_recording: "dd11H_bRcb0"
 ---
 Background and purpose 
 Following the paradigmatic examples of the use of OSM for crisis mapping, there have been sustained efforts to use OSM for mapping preventively vulnerable communities in the global South. This includes, for instance, participatory mapping in the slums of sub-Saharan Africa (Hagen, 2017) and the Missing Maps project. Researchers have also started to study these mapping activities (e.g. Albuquerque et al. 2016; Herfort et al. 2017). However, a collaborative agenda in this area is missing that is able to reflect views and needs of researchers, OSM volunteers, humanitarian organisation practitioners and local communities.

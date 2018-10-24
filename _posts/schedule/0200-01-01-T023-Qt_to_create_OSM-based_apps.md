@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot5
   - 
+slides: "/slides/T023-Qt_to_create_OSM-based_apps.pdf"
 ---
 The aim of the talk is to introduce the mighty Qt framework (https://en.wikipedia.org/wiki/Qt_(software)) to
 the audience, then to drill down into its QtLocation module.

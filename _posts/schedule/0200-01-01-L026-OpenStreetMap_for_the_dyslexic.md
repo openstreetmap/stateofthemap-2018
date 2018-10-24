@@ -23,5 +23,7 @@ tags:
   - lightning_talk
   - lightning_talks_block_6
   - lightning_talk
+slides: "/slides/L026-OpenStreetMap_for_the_dyslexic.pdf"
+youtube_recording: "_na6F1CZNoo"
 ---
 The 8% of the population has huge problems reading and browsing maps because is dyslexic. Moreover OpenStreetMap is so rich of geographical data to be crowded for such people. During the session we will present the application we developed, the multisensorial approach we used and the feedback we had after two years of activities.

@@ -17,6 +17,8 @@ tags:
   - sotmevent
   - slot26
   - academic_track
+slides: "/slides/A30-Areas-of-Interest_for_OpenStreetMap_with_Big_Spatial_Data_Analytics_.pdf"
+youtube_recording: "9bPL9wZkLxM"
 ---
 This is a work-in-progress report about &#34;Areas-of-Interest&#34; (AOI) for OpenStreetMap (OSM) using big spatial data analytics. OSM is a free map of the world based on a collaborative, volunteered effort. OSM is a promising, yet underestimated alternative to Google Maps (GMaps). 
 

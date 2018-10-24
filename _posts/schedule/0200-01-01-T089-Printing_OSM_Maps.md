@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot21
   - 
+slides: "/slides/T089-Printing_OSM_Maps.pdf"
 youtube_recording: "dOVSX5t-oCc"
 ---
 There are a lot of online services that produce nice maps from OpenStreetMap data, but only very few that generate output suitable for printing. This talk is going to present MapOSMatic, a service that produces large scale single and multi page high resolution maps.

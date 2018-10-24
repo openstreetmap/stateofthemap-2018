@@ -23,6 +23,7 @@ tags:
   - lightning_talk
   - lightning_talks_block_2
   - lightning_talk
+slides: "/slides/L037-A_new_lightning_fast__osm_parser.pdf"
 youtube_recording: "9GElceCXzTI"
 ---
 Downloading and processing OSM XML are some of the slowest tasks in the iD editor.  As a user navigates around the map, this activity can block other work, causing delayed rendering and unresponsiveness.  However, OSM XML files follow a well-defined format that can be easily parsed, and modern browsers are able to execute tasks asynchronously in multiple threads using a feature called web workers.  

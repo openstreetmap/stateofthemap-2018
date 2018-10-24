@@ -18,7 +18,6 @@ tags:
   - slot10
   - 
 youtube_recording: "HC8cJkMVdqU"
-
 ---
 OpenStreetMap (OSM)’s model of crowdsourcing data from volunteers is its greatest strength, and biggest challenge as this leads to gaps in OSM data, especially in developing regions. Predominant methods of engagement eg. mapping parties exhibit limited success in sustaining participation, which curbs the fulfillment of data gap. To engage youth from under-mapped regions in enriching local OSM data, while also developing their skills for the digital age as an alternative model to participate in OSM community, we designed the Digital Internship and Leadership (DIAL) program.
 

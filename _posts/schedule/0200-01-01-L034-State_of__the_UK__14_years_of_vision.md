@@ -23,5 +23,7 @@ tags:
   - lightning_talk
   - lightning_talks_block_7
   - lightning_talk
+slides: "/slides/L034-State_of__the_UK__14_years_of_vision.pdf"
+youtube_recording: "ryPZWorNbyM"
 ---
 OpenStreetMap started in the UK when a few people had some big aims. For the last year the UK has had an official local chapter of OSMF, and it had 4 specific aims. Have we achieved them, and where are we going from here?

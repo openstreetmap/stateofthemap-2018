@@ -3,10 +3,10 @@ layout: program
 color: fill-midnight
 ---
 {% assign first_post = site.tags.lightning_talks_block_8 | first %}
-{% capture this_page_tags %}{{ first_post.tags }}{% endcapture %}
+{% capture this_page %}{{ first_post }}{% endcapture %}
 
-{% include lightning_talk_overview_1.html %}
-
-This block is available for sign-up during the conference. Please come to the welcome desk for sign-up.
+{% for post in site.tags.lightning_talks_block_8 %}
+{% include lightning_talk_snippet.html %}
+{% endfor %}
 
 {% include lightning_talk_overview_2.html %}

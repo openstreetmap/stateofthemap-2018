@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot24
   - 
+slides: "/slides/T018-Pathao__Navigating__with_OSM_in_Bangladesh_while_Community_blends_in_with_Corporate.pdf"
 youtube_recording: "mLt7IwtAioU"
 ---
 Will focus on recent collaboration  of the BHOOT&#39;s from OpenStreetMap Bangladesh community with Pathao, the most popular ride sharing service provider &amp; technology based startup; How the local community &amp; the global OpenStreetMap  platform getting benefited through the collaboration; The Mammoth level of contribution done by the team and how far they have taken the data size of the region in this small period of time and how they are pushing the community to grow in a more coordinated way.   

@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot26
   - 
+slides: "/slides/T005-IT_backend_of_the_OpenStreetMap_community.pdf"
 ---
 I want show that any OSM enthusiast can quickly run his own server and start using OSM data. That any community could launch its local OSM server and could concentrate on creating educational materials and attracting new OSM members, rather than spending a lot of effort on setup computer programs. 
 

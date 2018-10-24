@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot28
   - 
+slides: "/slides/T062-A_tale_of_two__mapping__cities.pdf"
 youtube_recording: "6jXuqog7wBs"
 ---
 Looking back only a few years, it is amazing to witness the astonishing expansion of the global »geo-community«. Nowhere else has there been such an abundance of open source learning and teaching resources which have lowered the entry-barrier to the world of technology. The global Maptime movement has certainly played a fundamental role in this regard, with its contagious spirit of inclusion, a special dedication to beginners&#39; involvement, and of course: rainbows.

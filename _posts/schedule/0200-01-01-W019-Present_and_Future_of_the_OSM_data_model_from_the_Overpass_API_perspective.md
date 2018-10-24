@@ -20,6 +20,7 @@ tags:
   - slot40
   - workshop
   - 
+slides: "/slides/W019-Present_and_Future_of_the_OSM_data_model_from_the_Overpass_API_perspective.pdf"
 ---
 *Note: Previous title was &#34;Areas, Routing, and Diffs: Can we have Something Better than Relations?&#34;*
 

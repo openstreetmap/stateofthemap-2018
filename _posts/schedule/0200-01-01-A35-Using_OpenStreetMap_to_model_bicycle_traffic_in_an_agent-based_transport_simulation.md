@@ -17,6 +17,8 @@ tags:
   - sotmevent
   - slot30
   - academic_track
+slides: "/slides/A35-Using_OpenStreetMap_to_model_bicycle_traffic_in_an_agent-based_transport_simulation.pdf"
+youtube_recording: "HxOs7Ib9220"
 ---
 Cycling as a mode of transport for everyday life (besides cycling as a leisure activity) is becoming increasingly popular in many regions of the world. Policymakers as well as travelers acknowledge cycling as an environmentally-friendly, energy-efficient, healthy, and practical mode of transport, which can help addressing various problems of modern cities like air pollution, public health, or congestion.
 

@@ -23,5 +23,6 @@ tags:
   - lightning_talk
   - lightning_talks_block_5
   - lightning_talk
+youtube_recording: "UndzHhfQL3I"
 ---
 OSM Streak — makes you map every day by giving out precious points. How many people fell for it, and how can it be even more fun?

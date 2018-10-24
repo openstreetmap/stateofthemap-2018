@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot13
   - 
+slides: "/slides/T121-Lies__damned_lies__and_OSM_statistics.pdf"
 youtube_recording: "Kx0KuvkbvfQ"
 ---
 When people who are unfamiliar with OpenStreetMap try to evaluate OpenStreetMap data statistically, many things can go wrong. There are just too many things you can count - how many of what are there, how richly attributed,

@@ -20,6 +20,7 @@ tags:
   - slot30
   - workshop
   - workshop
+slides: "/slides/W020-Navigation_Mapping_Workshop.pdf"
 ---
 Your hometown looks great on OpenStreetMap. But routers like OSRM and applications like OsmAnd look at maps very differently. From one-way parking aisles to multi-lane motorway junctions, navigation mapping requires attention to detail and efficient workflows. Unlike visual maps, individual navigation tagging errors are often invisible, but they impact the user experience significantly. This workshop will teach you to look at the world from the perspective of the routing engines.
 

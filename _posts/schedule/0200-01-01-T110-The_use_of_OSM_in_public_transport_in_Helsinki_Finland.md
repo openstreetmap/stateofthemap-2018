@@ -17,6 +17,7 @@ tags:
   - sotmevent
   - slot20
   - 
+slides: "/slides/T110-The_use_of_OSM_in_public_transport_in_Helsinki_Finland.pdf"
 youtube_recording: "3V8bgYMbvoM"
 ---
 Helsinki Regional Transport Authority HSL has renewed its map production and OSM has been the base for all new printed and digital maps since early 2015. Some of the products are bilingual, and some are used nationwide in collaboration with national authorities and other cities. Walking and cycling paths are in focus, and public transport stops link OSM to the schedules.
