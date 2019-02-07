@@ -23,3 +23,5 @@ We present one of our latest mapping projects in Belgium to map *all* the roads.
 
 More information about our project can be found on the Belgian OSM website:
 http://www.osm.be/2017/01/06/en-project-road-completion.html
+
+[View slides](https://osmbe.github.io/presentations/talks/2018-07-30-road-completion-babelshausen/index.html)
