@@ -1,0 +1,12 @@
+sudo: false
+language: ruby
+dist: bionic
+cache: bundler
+
+script:
+  - bundle exec jekyll build --verbose
+
+branches:
+  only:
+  - gh-pages # test the gh-pages branch
+  - /.*/     # and all other branches
