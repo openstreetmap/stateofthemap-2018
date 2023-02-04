@@ -22,3 +22,7 @@ defaults:
       type: posts
     values:
       permalink: /2018/:title/
+
+plugins:
+  - jekyll-gzip
+  # - jekyll-brotli
